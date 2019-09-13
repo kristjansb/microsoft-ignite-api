@@ -144,7 +144,7 @@ func PostSearchAPI() MsIgniteAPIResponse {
 
 //WriteSessionDataJSON prints the search API response JSON to a file
 func (s *MsIgniteAPIResponse) WriteSessionDataJSON(filename string) {
-	sessionJSON, err := json.Marshal(s)
+	sessionJSON, err := json.MarshalIndent(s, "", "    ")
 	if err != nil {
 		log.Fatal(err)
 	}
