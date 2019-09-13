@@ -154,7 +154,7 @@ func (s *MsIgniteAPIResponse) WriteSessionDataJSON(filename string) {
 //PrintSessionSummary prints the search API response facets
 func (s *MsIgniteAPIResponse) PrintSessionSummary() {
 	fmt.Printf("# Search Results Summary\n")
-	fmt.Printf("##### Ran at: %v\n", time.Now().Format(time.RFC3339))
+	fmt.Printf("### Ran at: %v\n", time.Now().Format(time.RFC3339))
 	fmt.Printf("--------------------------\n")
 	fmt.Printf("#### Received %d results in total\n\n", s.Total)
 

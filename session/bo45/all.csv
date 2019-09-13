@@ -173,7 +173,7 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 82899,BRK2135,Lessons learned migrating SAP applications to Azure: Customers and partners,Breakout: 45 Minute,Intermediate (200),Session,Naga Surendran,2019-09-02T03:00:58Z
 81602,BRK2183,Linux based web app development made easy on App Service,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-12T17:01:38Z
 81730,BRK3112,Love all your identities – Building digital relationships with your customers and partners,Breakout: 45 Minute,Advanced (300),Session,Elisabeth Olsen;Jose Rojas;Robin Goldstein,2019-09-11T19:45:49Z
-81036,BRK3023,Machine learning and AI with SQL Server 2019 big data clusters,Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-12T17:25:55Z
+81036,BRK3023,Machine learning and AI with SQL Server 2019 big data clusters,Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-13T05:45:13Z
 83921,BRK2184,Machine learning on Azure: Ask me anything,Breakout: 45 Minute,Intermediate (200),Panel Discussion,Venky Veeraraghavan,2019-09-11T18:00:13Z
 83453,BRK1058,Make data protection a partner to your automation workflows,Breakout: 45 Minute,Foundational (100),Partner Led Session,,2019-09-11T17:50:44Z
 82914,BRK2140,Make the most of Azure by optimizing your cloud spend,Breakout: 45 Minute,Intermediate (200),Session,Paul Nash,2019-09-02T03:00:58Z
@@ -263,7 +263,7 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 81558,BRK3010,Simple identity management,Breakout: 45 Minute,Advanced (300),Session,Michael Curnutt,2019-09-07T02:35:11Z
 81634,BRK2080,Simplify sign in and authorization with the Microsoft identity platform,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-07T22:15:13Z
 83914,BRK2188,Simplifying Natural Language Processing (NLP) models using Azure Cognitive Services,Breakout: 45 Minute,Intermediate (200),Session,Nayer Wanas,2019-09-11T18:00:13Z
-81035,BRK3022,"SQL Server 2019 big data clusters: Architecture, deployment, and security",Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-12T17:25:55Z
+81035,BRK3022,"SQL Server 2019 big data clusters: Architecture, deployment, and security",Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-13T05:45:13Z
 81039,BRK3024,SQL Server 2019 on containers and Kubernetes,Breakout: 45 Minute,Advanced (300),Session,,2019-09-12T17:30:45Z
 81044,BRK2008,SQL Server in Azure Virtual Machine reimagined,Breakout: 45 Minute,Intermediate (200),Session,Mine Tokus,2019-09-02T03:00:58Z
 81038,BRK3049,SQL Server Machine Learning platform,Breakout: 45 Minute,Advanced (300),Session,Rony Chatterjee,2019-09-09T21:10:12Z
