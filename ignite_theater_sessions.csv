@@ -17,6 +17,7 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 81082,THR3009,Build better form recognizer models with a human feedback loop,Theater: 20 Minute,Advanced (300),Session,Neta Haiby,2019-09-11T18:16:08Z
 83009,THR3087,Build great Microsoft 365 experiences on the web and beyond,Theater: 20 Minute,Advanced (300),Session,Markus Mielke,2019-09-11T18:16:08Z
 81141,THR2022,Build rich visual solutions using Visio APIs to solve real-world problems visually,Theater: 20 Minute,Intermediate (200),Session,Michel Laplane,2019-09-11T18:16:08Z
+83901,THR3120,Building a golden image pipeline,Theater: 20 Minute,Advanced (300),Partner Led Session,,2019-09-12T23:05:12Z
 83457,THR2118,Building a PowerShell module with Azure Automation,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-10T00:26:05Z
 83014,THR3091,Building a Smart Chatbot with the Microsoft Graph Security API,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
 81299,THR1005,Collaborate with tasks in Office docs and Microsoft Planner,Theater: 20 Minute,Foundational (100),Session,Monika Dragulski,2019-09-11T18:16:08Z
@@ -40,6 +41,7 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 83454,THR1070,"Discover, classify, and report on sensitive data with Rubrik Sonar",Theater: 20 Minute,Foundational (100),Partner Led Session,Demetrius Malbrough,2019-09-10T00:26:05Z
 81452,THR2027,"Do more with Advanced eDiscovery: Custodian communications, working sets, and review",Theater: 20 Minute,Intermediate (200),Session,,2019-09-11T18:16:08Z
 79761,THR1058,Driving Microsoft Surface adoption in healthcare,Theater: 20 Minute,Foundational (100),Session,Alfred Ojukwu;Bruce Pagen;David Alexander,2019-09-11T23:41:13Z
+83493,THR2158,Employees are taking data when they quit,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-12T23:05:12Z
 83892,THR2138,End user training: Microsoft 365 learning pathways demo,Theater: 20 Minute,Intermediate (200),Session,Matt Wolodarsky,2019-09-11T18:16:08Z
 82912,BRK3128,Enhance performance with AIOps in Azure,Theater: 20 Minute,Advanced (300),Session,,2019-09-10T03:35:12Z
 79350,THR1075,Enterprise-ready PDF solution in Microsoft Edge,Theater: 20 Minute,Foundational (100),Session,Aditi Gangwar,2019-09-11T18:05:13Z
@@ -130,8 +132,10 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 83759,THR1078,Streamline your business processes with automation using Microsoft Teams and Microsoft Flow,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z
 83760,THR1079,Streamline your business processes with Microsoft Teams and the Microsoft Power Apps,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z
 83465,THR3106,Streamlining government collaboration and processes with Microsoft Teams,Theater: 20 Minute,Foundational (100),Session,Sankalp Jain,2019-09-11T18:16:08Z
+83771,THR2172,Tailoring Microsoft Teams and delegating administration in Office 365,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-12T23:05:12Z
 83239,THR2114,Tap into Microsoft Teams Rooms with Logitech,Theater: 20 Minute,Intermediate (200),Partner Led Session,Vic Bhagat,2019-09-10T00:26:05Z
 81333,THR2105,Test and debug MSIX apps remotely using Windows Device Portal,Theater: 20 Minute,Intermediate (200),Session,Adam Braden,2019-09-11T18:16:08Z
+83770,THR2173,The ABCs of WVD migration,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-12T23:00:54Z
 82867,THR3117,The evolution of Windows feature update deployment ,Theater: 20 Minute,Advanced (300),Session,Vivek Singh Gaur,2019-09-11T18:16:08Z
 81241,THR1047,The new Microsoft Project: Built for teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z
 81246,THR1048,The new Microsoft Project: Built for teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z

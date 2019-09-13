@@ -98,7 +98,9 @@ type FilterNum struct {
 func main() {
 
 	sessions := PostSearchAPI()
-	WriteSessionDataCSV(sessions)
+	sessions.WriteSessionDataJSON("ignite_search_results.json")
+	sessions.WriteSessionDataCSV()
+	sessions.PrintSessionSummary()
 
 }
 
@@ -139,8 +141,42 @@ func PostSearchAPI() MsIgniteAPIResponse {
 	return sessions
 }
 
+//WriteSessionDataJSON prints the search API response JSON to a file
+func (s *MsIgniteAPIResponse) WriteSessionDataJSON(filename string) {
+	sessionJSON, err := json.Marshal(s)
+	if err != nil {
+		log.Fatal(err)
+	}
+	ioutil.WriteFile(filename, sessionJSON, 0664)
+}
+
+//PrintSessionSummary prints the search API response facets
+func (s *MsIgniteAPIResponse) PrintSessionSummary() {
+	fmt.Printf("          Search Results Summary\n")
+	fmt.Printf("--------------------------------------------\n")
+	fmt.Printf("Received %d results in total\n\n", s.Total)
+
+	// fmt.Printf("%+v", s.Facets)
+	FormatFacetSummary(s.Facets.SessionType)
+	FormatFacetSummary(s.Facets.Level)
+	FormatFacetSummary(s.Facets.Format)
+	FormatFacetSummary(s.Facets.Products)
+	FormatFacetSummary(s.Facets.LearningPath)
+}
+
+//FormatFacetSummary prints a formatted summary of a particular facet
+func FormatFacetSummary(f Facet) {
+	n, _ := fmt.Printf("%v: %d Categories\n", strings.ToTitle(f.FacetName), len(f.Filters))
+	fmt.Println(strings.Repeat("-", n-1))
+
+	for i, filter := range f.Filters {
+		fmt.Printf("%0d. %v: %v\n", i, filter.Value, filter.Count)
+	}
+	fmt.Printf("\n")
+}
+
 //WriteSessionDataCSV prints select fields from the API response to a CSV file
-func WriteSessionDataCSV(sessions MsIgniteAPIResponse) {
+func (s *MsIgniteAPIResponse) WriteSessionDataCSV() {
 	breakoutCSVFile, err := os.Create("ignite_breakout_sessions.csv")
 	if err != nil {
 		log.Fatal("Unable to create breakout session file. Received error ", err)
@@ -164,7 +200,7 @@ func WriteSessionDataCSV(sessions MsIgniteAPIResponse) {
 		log.Fatalln("error writing header to theater csv:", err)
 	}
 
-	for _, session := range sessions.Data {
+	for _, session := range s.Data {
 		speakers := strings.Join(session.SpeakerNames, ";")
 		switch {
 		case strings.Contains(session.SessionType, "Breakout"):
