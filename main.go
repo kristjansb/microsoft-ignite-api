@@ -8,6 +8,7 @@ import (
 	"log"
 	"net/http"
 	"os"
+	"path/filepath"
 	"strings"
 	"time"
 )
@@ -152,9 +153,10 @@ func (s *MsIgniteAPIResponse) WriteSessionDataJSON(filename string) {
 
 //PrintSessionSummary prints the search API response facets
 func (s *MsIgniteAPIResponse) PrintSessionSummary() {
-	fmt.Printf("          Search Results Summary\n")
-	fmt.Printf("--------------------------------------------\n")
-	fmt.Printf("Received %d results in total\n\n", s.Total)
+	fmt.Printf("#Search Results Summary\n")
+	fmt.Printf("#####Ran at: %v\n", time.Now().Format(time.RFC3339))
+	fmt.Printf("-----------------------\n")
+	fmt.Printf("####Received %d results in total\n\n", s.Total)
 
 	// fmt.Printf("%+v", s.Facets)
 	FormatFacetSummary(s.Facets.SessionType)
@@ -177,57 +179,80 @@ func FormatFacetSummary(f Facet) {
 
 //WriteSessionDataCSV prints select fields from the API response to a CSV file
 func (s *MsIgniteAPIResponse) WriteSessionDataCSV() {
-	breakoutCSVFile, err := os.Create("ignite_breakout_sessions.csv")
+	header := []string{"Session ID", "Session Code", "Title", "Session Type", "Level", "Format", "Speaker Names", "Last Update"}
+
+	breakout45AllCSVFileName := filepath.Join("session", "bo45", "all.csv")
+	breakout45AllCSVFile, err := os.Create(breakout45AllCSVFileName)
 	if err != nil {
 		log.Fatal("Unable to create breakout session file. Received error ", err)
 	}
-	defer breakoutCSVFile.Close()
-	theaterCSVFile, err := os.Create("ignite_theater_sessions.csv")
-	if err != nil {
-		log.Fatal("Unable to create theater session file. Received error ", err)
-	}
-	defer theaterCSVFile.Close()
-	// w := csv.NewWriter(os.Stdout)
-	breakoutW := csv.NewWriter(breakoutCSVFile)
-	theaterW := csv.NewWriter(theaterCSVFile)
-
-	header := []string{"Session ID", "Session Code", "Title", "Session Type", "Level", "Format", "Speaker Names", "Last Update"}
-
-	if err = breakoutW.Write(header); err != nil {
+	defer breakout45AllCSVFile.Close()
+	breakout45W := csv.NewWriter(breakout45AllCSVFile)
+	if err = breakout45W.Write(header); err != nil {
 		log.Fatalln("error writing header to breakout csv:", err)
 	}
-	if err = theaterW.Write(header); err != nil {
+
+	breakout75AllCSVFileName := filepath.Join("session", "bo75", "all.csv")
+	breakout75AllCSVFile, err := os.Create(breakout75AllCSVFileName)
+	if err != nil {
+		log.Fatal("Unable to create breakout session file. Received error ", err)
+	}
+	defer breakout75AllCSVFile.Close()
+	breakout75W := csv.NewWriter(breakout75AllCSVFile)
+	if err = breakout75W.Write(header); err != nil {
+		log.Fatalln("error writing header to breakout csv:", err)
+	}
+
+	theater20AllCSVFileName := filepath.Join("session", "th20", "all.csv")
+	theater20AllCSVFile, err := os.Create(theater20AllCSVFileName)
+	if err != nil {
+		log.Fatal("Unable to create breakout session file. Received error ", err)
+	}
+	defer theater20AllCSVFile.Close()
+	theater20W := csv.NewWriter(theater20AllCSVFile)
+	if err = theater20W.Write(header); err != nil {
 		log.Fatalln("error writing header to theater csv:", err)
 	}
 
 	for _, session := range s.Data {
 		speakers := strings.Join(session.SpeakerNames, ";")
 		switch {
-		case strings.Contains(session.SessionType, "Breakout"):
-			if err := breakoutW.Write([]string{session.SessionID, session.SessionCode, session.Title, session.SessionType, session.Level, session.Format, speakers, session.LastUpdate.Format(time.RFC3339)}); err != nil {
+		case strings.Contains(session.SessionType, "Breakout: 45 Minute"):
+			if err := breakout45W.Write([]string{session.SessionID, session.SessionCode, session.Title, session.SessionType, session.Level, session.Format, speakers, session.LastUpdate.Format(time.RFC3339)}); err != nil {
 				log.Fatalln("error writing session info to csv:", err)
 			}
 			// Write any buffered data to the underlying writer (standard output).
-			breakoutW.Flush()
-		case strings.Contains(session.SessionType, "Theater"):
-			if err := theaterW.Write([]string{session.SessionID, session.SessionCode, session.Title, session.SessionType, session.Level, session.Format, speakers, session.LastUpdate.Format(time.RFC3339)}); err != nil {
+			breakout45W.Flush()
+		case strings.Contains(session.SessionType, "Breakout: 75 Minute"):
+			if err := breakout75W.Write([]string{session.SessionID, session.SessionCode, session.Title, session.SessionType, session.Level, session.Format, speakers, session.LastUpdate.Format(time.RFC3339)}); err != nil {
 				log.Fatalln("error writing session info to csv:", err)
 			}
 			// Write any buffered data to the underlying writer (standard output).
-			theaterW.Flush()
+			breakout75W.Flush()
+		case strings.Contains(session.SessionType, "Theater: 20 Minute"):
+			if err := theater20W.Write([]string{session.SessionID, session.SessionCode, session.Title, session.SessionType, session.Level, session.Format, speakers, session.LastUpdate.Format(time.RFC3339)}); err != nil {
+				log.Fatalln("error writing session info to csv:", err)
+			}
+			// Write any buffered data to the underlying writer (standard output).
+			theater20W.Flush()
 		default:
 			fmt.Println("No output file defined for session type: ", session.SessionType)
 		}
 	}
 
 	// Write any buffered data to the underlying writer (standard output).
-	breakoutW.Flush()
-	theaterW.Flush()
-
-	if err = breakoutW.Error(); err != nil {
+	breakout45W.Flush()
+	if err = breakout45W.Error(); err != nil {
 		log.Fatal(err)
 	}
-	if err = theaterW.Error(); err != nil {
+
+	breakout75W.Flush()
+	if err = breakout75W.Error(); err != nil {
+		log.Fatal(err)
+	}
+
+	theater20W.Flush()
+	if err = theater20W.Error(); err != nil {
 		log.Fatal(err)
 	}
 }
