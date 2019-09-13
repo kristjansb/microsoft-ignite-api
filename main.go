@@ -155,7 +155,7 @@ func (s *MsIgniteAPIResponse) WriteSessionDataJSON(filename string) {
 func (s *MsIgniteAPIResponse) PrintSessionSummary() {
 	fmt.Printf("# Search Results Summary\n")
 	fmt.Printf("##### Ran at: %v\n", time.Now().Format(time.RFC3339))
-	fmt.Printf("-----------------------\n")
+	fmt.Printf("--------------------------\n")
 	fmt.Printf("#### Received %d results in total\n\n", s.Total)
 
 	// fmt.Printf("%+v", s.Facets)
@@ -181,7 +181,11 @@ func FormatFacetSummary(f Facet) {
 func (s *MsIgniteAPIResponse) WriteSessionDataCSV() {
 	header := []string{"Session ID", "Session Code", "Title", "Session Type", "Level", "Format", "Speaker Names", "Last Update"}
 
-	breakout45AllCSVFileName := filepath.Join("session", "bo45", "all.csv")
+	breakout45DirPathName := filepath.Join("session", "bo45")
+	if err := os.MkdirAll(breakout45DirPathName, 0664); err != nil {
+		log.Fatal("Unable to create breakout 45 session directory. Received error ", err)
+	}
+	breakout45AllCSVFileName := filepath.Join(breakout45DirPathName, "all.csv")
 	breakout45AllCSVFile, err := os.Create(breakout45AllCSVFileName)
 	if err != nil {
 		log.Fatal("Unable to create breakout session file. Received error ", err)
@@ -192,7 +196,11 @@ func (s *MsIgniteAPIResponse) WriteSessionDataCSV() {
 		log.Fatalln("error writing header to breakout csv:", err)
 	}
 
-	breakout75AllCSVFileName := filepath.Join("session", "bo75", "all.csv")
+	breakout75DirPathName := filepath.Join("session", "bo75")
+	if err := os.MkdirAll(breakout75DirPathName, 0664); err != nil {
+		log.Fatal("Unable to create breakout 75 session directory. Received error ", err)
+	}
+	breakout75AllCSVFileName := filepath.Join(breakout75DirPathName, "all.csv")
 	breakout75AllCSVFile, err := os.Create(breakout75AllCSVFileName)
 	if err != nil {
 		log.Fatal("Unable to create breakout session file. Received error ", err)
@@ -203,7 +211,11 @@ func (s *MsIgniteAPIResponse) WriteSessionDataCSV() {
 		log.Fatalln("error writing header to breakout csv:", err)
 	}
 
-	theater20AllCSVFileName := filepath.Join("session", "th20", "all.csv")
+	theater20DirPathName := filepath.Join("session", "th20")
+	if err := os.MkdirAll(theater20DirPathName, 0664); err != nil {
+		log.Fatal("Unable to create theater 20 session directory. Received error ", err)
+	}
+	theater20AllCSVFileName := filepath.Join(theater20DirPathName, "all.csv")
 	theater20AllCSVFile, err := os.Create(theater20AllCSVFileName)
 	if err != nil {
 		log.Fatal("Unable to create breakout session file. Received error ", err)
