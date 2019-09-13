@@ -1,5 +1,4 @@
 Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Update
-81592,BRK3164,.NET platform overview and roadmap,Breakout: 75 Minute,Advanced (300),Session,Scott Hanselman,2019-09-12T16:50:17Z
 81310,BRK2125,99+% of breaches didn’t occur because technology failed us. It’s time to fix the people problem!,Breakout: 45 Minute,Intermediate (200),Session,Brandon Koeller,2019-09-02T03:00:58Z
 83878,BRK2192,A 360 degree view of Veeam solutions in a multi-cloud world,Breakout: 45 Minute,Intermediate (200),Partner Led Session,,2019-09-12T23:05:12Z
 84129,BRK3235,A customer panel: Navigating the deployment of Microsoft hyperconverged infrastructure (HCI) to conquer IT,Breakout: 45 Minute,Advanced (300),Partner Led Session,,2019-09-12T23:05:12Z
@@ -19,7 +18,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 79362,BRK3222,AI-powered analytics in Microsoft Excel: Deep dive into the latest AI-powered capabilities and more to gain deep insights from your data,Breakout: 45 Minute,Advanced (300),Session,,2019-09-11T17:50:44Z
 82842,BRK3190,"Analyze, manage, and optimize your cloud cost with Azure Cost Management",Breakout: 45 Minute,Advanced (300),Session,Raphael Chacko;Jim Bragg,2019-09-04T23:05:12Z
 81603,BRK3062,API management for microservices in a hybrid and multi-cloud world,Breakout: 45 Minute,Advanced (300),Session,,2019-09-02T03:00:58Z
-81591,BRK2067,App development for everyone with Hanselman and friends,Breakout: 75 Minute,Intermediate (200),Session,Scott Hanselman,2019-09-06T03:00:58Z
 81598,BRK4006,Applying best practices to Azure Kubernetes Service (AKS),Breakout: 45 Minute,Expert (400),Session,Mohammed Nofal,2019-09-11T23:10:11Z
 83450,BRK1057,Architecting an elegant data management strategy with Rubrik,Breakout: 45 Minute,Foundational (100),Partner Led Session,,2019-09-10T00:26:05Z
 82841,BRK3189,Architecting SAP landscapes with demanding performance requirements on Azure,Breakout: 45 Minute,Advanced (300),Session,Juergen Thomas,2019-09-02T03:00:58Z
@@ -53,7 +51,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 82946,BRK3170,Build and manage distributed micro-perimeters with Azure Firewall,Breakout: 45 Minute,Advanced (300),Session,Prasetha Warrier;Yair Tor,2019-09-02T03:00:58Z
 81060,BRK3048,Build high performance time series and log data analysis solutions with Azure Data Explorer,Breakout: 45 Minute,Advanced (300),Session,Uri Barash,2019-09-10T17:21:09Z
 81615,BRK3068,Build Python apps in Azure faster with Visual Studio Code,Breakout: 45 Minute,Advanced (300),Session,Nicolas Garfinkel,2019-09-11T23:50:12Z
-83913,BRK2174,Build your adoption success hub,Breakout: 75 Minute,Intermediate (200),Session,,2019-09-11T18:00:13Z
 81763,BRK3114,Building a path to digital privacy with decentralized identities,Breakout: 45 Minute,Advanced (300),Session,Brandon Murdoch,2019-09-11T19:55:16Z
 79931,BRK3014,Building a real-time personalization engine using Azure Cosmos DB and new built-in Spark capabilities,Breakout: 45 Minute,Advanced (300),Session,Sri Chintala,2019-09-02T03:00:58Z
 81605,BRK3063,Building enterprise capable serverless applications,Breakout: 45 Minute,Advanced (300),Session,Eduardo Laureano,2019-09-11T22:30:56Z
@@ -100,7 +97,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 83000,BRK3225,Develop great workspaces with the Microsoft Teams platform: What’s new and what’s coming ,Breakout: 45 Minute,Advanced (300),Session,Sharad Goel,2019-09-11T17:55:13Z
 81970,BRK3186,Developing secure applications in Azure,Breakout: 45 Minute,Advanced (300),Session,Shawn Hernan,2019-09-12T01:26:19Z
 81642,BRK3075,Developing with the Fluid Framework,Breakout: 45 Minute,Advanced (300),Session,Tyler Butler;Peter Allenspach,2019-09-12T21:10:12Z
-79242,BRK1018,"Digital transformation using Office 365: How key customers used O365 features to work more effectively together plus learn what’s new in Word, Excel and PowerPoint",Breakout: 75 Minute,Foundational (100),Session,Patrick Gan;Megan Dohnal,2019-09-12T22:06:24Z
 82907,BRK2138,Discover Azure Stack HCI,Breakout: 45 Minute,Intermediate (200),Session,Cosmo Darwin,2019-09-02T03:00:58Z
 81427,BRK2040,Discover how a large Fortune 500 customer used workplace intelligence to drive digital transformation (customer panel),Breakout: 45 Minute,Intermediate (200),Session,Erik Anderson,2019-09-02T03:00:58Z
 81973,BRK2149,Discovering the end-to-end Linux on Azure experience,Breakout: 45 Minute,Intermediate (200),Session,Boris Baryshinkov;Alfrid Sin,2019-09-02T03:00:58Z
@@ -160,7 +156,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 81726,BRK2131,Increase M&A agility by integrating quickly and securely with identity,Breakout: 45 Minute,Advanced (300),Session,Nitika Gupta;Chetan Desai,2019-09-11T19:31:15Z
 81607,BRK2071,Increase your .NET productivity with Visual Studio and Visual Studio for Mac,Breakout: 45 Minute,Intermediate (200),Session,Kendra Havens,2019-09-11T23:26:55Z
 81012,BRK2065,"Innovations to boost productivity with Azure-managed MySQL, Postgres, and MariaDB databases",Breakout: 45 Minute,Intermediate (200),Session,Sudhakar Sannakkayla,2019-09-02T03:00:58Z
-82058,BRK3097,Inside Azure datacenter architecture with Mark Russinovich,Breakout: 75 Minute,Advanced (300),Session,,2019-09-09T00:30:10Z
 82896,BRK2173,Insider info from Microsoft’s CISO,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-11T17:55:13Z
 79631,BRK1074,Introducing Bing Maps Geospatial Analytics platform for enterprise business planning,Breakout: 45 Minute,Foundational (100),Session,Erik Lindeman;Seshagiri Cherukuri,2019-09-11T17:45:12Z
 81077,BRK2015,Introducing Form Recognizer for AI driven information extraction from forms,Breakout: 45 Minute,Intermediate (200),Session,Neta Haiby,2019-09-02T03:00:58Z
@@ -178,9 +173,8 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 82899,BRK2135,Lessons learned migrating SAP applications to Azure: Customers and partners,Breakout: 45 Minute,Intermediate (200),Session,Naga Surendran,2019-09-02T03:00:58Z
 81602,BRK2183,Linux based web app development made easy on App Service,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-12T17:01:38Z
 81730,BRK3112,Love all your identities – Building digital relationships with your customers and partners,Breakout: 45 Minute,Advanced (300),Session,Elisabeth Olsen;Jose Rojas;Robin Goldstein,2019-09-11T19:45:49Z
-81036,BRK3023,Machine learning and AI with SQL Server 2019 big data clusters,Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-12T17:25:55Z
+81036,BRK3023,Machine learning and AI with SQL Server 2019 big data clusters,Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-13T05:45:13Z
 83921,BRK2184,Machine learning on Azure: Ask me anything,Breakout: 45 Minute,Intermediate (200),Panel Discussion,Venky Veeraraghavan,2019-09-11T18:00:13Z
-81148,BRK1009,Machine learning simplified: From ideation to deployment in minutes with Azure Machine Learning,Breakout: 75 Minute,Foundational (100),Session,Erez Barak,2019-09-09T22:30:12Z
 83453,BRK1058,Make data protection a partner to your automation workflows,Breakout: 45 Minute,Foundational (100),Partner Led Session,,2019-09-11T17:50:44Z
 82914,BRK2140,Make the most of Azure by optimizing your cloud spend,Breakout: 45 Minute,Intermediate (200),Session,Paul Nash,2019-09-02T03:00:58Z
 79724,BRK2106,Make the most of your blue team: Empower defenders with the correlated incidents and automation in our threat protection stack,Breakout: 45 Minute,Advanced (300),Session,Raviv Tamir,2019-09-09T21:30:48Z
@@ -188,7 +182,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 81150,BRK3035,Manage your end-to-end machine learning lifecycle with MLOps,Breakout: 45 Minute,Advanced (300),Session,Jordan Edwards,2019-09-02T03:00:58Z
 83763,BRK3221,Managing Microsoft Teams,Breakout: 45 Minute,Advanced (300),Session,,2019-09-11T18:00:13Z
 79751,BRK1004,Managing Surface UEFI BIOS settings with Microsoft Intune,Breakout: 45 Minute,Foundational (100),Session,Karan Dhillon;David Alexander,2019-09-11T17:45:12Z
-82059,BRK3098,Mark Russinovich shares the future of cloud native applications ,Breakout: 75 Minute,Advanced (300),Session,,2019-09-09T00:30:10Z
 81577,BRK3043,Maximizing your Azure Databricks deployment,Breakout: 45 Minute,Advanced (300),Session,Yatharth Gupta,2019-09-10T17:21:09Z
 82849,BRK3193,Maximum security with Windows Server 2019 and Azure,Breakout: 45 Minute,Advanced (300),Session,,2019-09-02T03:00:58Z
 81588,BRK3180,Microsoft Azure Backup: Deep dive into Azure's built-in data protection solution,Breakout: 45 Minute,Advanced (300),Session,Aruna Somendra;Sonia Gupta,2019-09-02T03:00:58Z
@@ -199,7 +192,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 79049,BRK3088,Microsoft Office Privacy Controls and Diagnostic Data,Breakout: 45 Minute,Advanced (300),Session,,2019-09-06T20:35:11Z
 81494,BRK2044,Microsoft OneDrive deployment and adoption deep-dive,Breakout: 45 Minute,Advanced (300),Session,,2019-09-06T22:40:13Z
 81240,BRK2024,Microsoft Planner in Microsoft 365,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-04T20:30:11Z
-83449,BRK2172,"Microsoft Power BI: Business intelligence strategy, vision, and roadmap update",Breakout: 75 Minute,Intermediate (200),Session,Justyna Lucznik;Amir Netz;Christian Wade;Arun Ulagaratchagan,2019-09-11T18:00:13Z
 83499,BRK3212,Microsoft Power BI: Delivering business value with AI,Breakout: 45 Minute,Advanced (300),Session,Justyna Lucznik;Sarina Stevens,2019-09-11T18:00:13Z
 83496,BRK3210,Microsoft Power BI: Paginated reports and SSRS 2019 and the hybrid cloud,Breakout: 45 Minute,Advanced (300),Session,,2019-09-11T18:00:13Z
 83495,BRK3207,"Microsoft Power BI: Roadmap for enterprise information management – data lineage and impact analysis, data protection, and data discovery",Breakout: 45 Minute,Advanced (300),Session,Adi Regev;Anton Fritz;Yaron Canari;Eyal Carmel,2019-09-11T18:00:13Z
@@ -237,7 +229,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 81024,BRK2004,Outlook mobile: The gold standard for secure communications in the enterprise,Breakout: 45 Minute,Intermediate (200),Session,Lexi Torres,2019-09-12T15:55:59Z
 82962,BRK2180,Overview: Microsoft 365 workloads,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-11T23:05:13Z
 83542,BRK3209,PaaSport to paradise: Lifting and shifting with Azure SQL Database + SSIS in Azure Data Factory,Breakout: 45 Minute,Advanced (300),Session,Sandy Winarko,2019-09-11T18:00:13Z
-83757,BRK3232,Plan and implement a successful upgrade from Skype for Business to Microsoft Teams,Breakout: 75 Minute,Advanced (300),Session,,2019-09-11T18:00:13Z
 83500,BRK3213,Power BI Premium: Microsoft's platform for enterprise BI,Breakout: 45 Minute,Advanced (300),Session,Josh Caplan;Richard Tkachuk,2019-09-11T18:00:13Z
 81587,BRK3179,Powershell 7,Breakout: 45 Minute,Advanced (300),Session,Joey Aiello,2019-09-04T04:50:42Z
 82844,BRK3119,PowerShell unplugged with Jeffrey Snover and Jason Helmick,Breakout: 45 Minute,Advanced (300),Session,Jeffrey Snover;Jason Helmick,2019-09-02T03:00:58Z
@@ -245,7 +236,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 82843,BRK3191,Protect your sensitive data and information in Azure,Breakout: 45 Minute,Advanced (300),Session,,2019-09-02T03:00:58Z
 81177,BRK3103,Protecting sensitive files and data can be hard. Choose the right data protection options that balance security and worker productivity,Breakout: 45 Minute,Advanced (300),Session,Laurie Litwak;Aashish Ramdas,2019-09-11T19:25:50Z
 81175,BRK3101,Protecting sensitive information in Office apps and Office 365 services: A deeper look at the latest enhancements,Breakout: 45 Minute,Advanced (300),Session,Mike Paer;Kartik Anil Shah,2019-09-11T19:25:50Z
-82019,BRK4011,Quantum computing: Computing with a probabilistic universe with Mark Russinovich,Breakout: 75 Minute,Expert (400),Session,,2019-09-09T00:30:10Z
 81326,BRK2029,React Native: Build rich apps for Windows and mobile applications easily using JavaScript,Breakout: 45 Minute,Intermediate (200),Session,Kiki Saintoge,2019-09-10T20:50:13Z
 79718,BRK1040,"Real customers, real challenges, and the real power of Microsoft Threat Protection",Breakout: 45 Minute,Foundational (100),Panel Discussion,Rob Lefferts,2019-09-09T21:20:11Z
 79717,BRK1039,Real detection stories! See how MTP's defeated actual attacks and adheres to the MITRE framework,Breakout: 45 Minute,Expert (400),Session,Elia Florio;David Fantham,2019-09-11T20:11:17Z
@@ -273,9 +263,8 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 81558,BRK3010,Simple identity management,Breakout: 45 Minute,Advanced (300),Session,Michael Curnutt,2019-09-07T02:35:11Z
 81634,BRK2080,Simplify sign in and authorization with the Microsoft identity platform,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-07T22:15:13Z
 83914,BRK2188,Simplifying Natural Language Processing (NLP) models using Azure Cognitive Services,Breakout: 45 Minute,Intermediate (200),Session,Nayer Wanas,2019-09-11T18:00:13Z
-81035,BRK3022,"SQL Server 2019 big data clusters: Architecture, deployment, and security",Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-12T17:25:55Z
+81035,BRK3022,"SQL Server 2019 big data clusters: Architecture, deployment, and security",Breakout: 45 Minute,Advanced (300),Session,Buck Woody,2019-09-13T05:45:13Z
 81039,BRK3024,SQL Server 2019 on containers and Kubernetes,Breakout: 45 Minute,Advanced (300),Session,,2019-09-12T17:30:45Z
-81032,BRK2006,SQL Server from ground to the cloud,Breakout: 75 Minute,Intermediate (200),Session,Asad Khan;Anna Thomas,2019-09-11T18:00:13Z
 81044,BRK2008,SQL Server in Azure Virtual Machine reimagined,Breakout: 45 Minute,Intermediate (200),Session,Mine Tokus,2019-09-02T03:00:58Z
 81038,BRK3049,SQL Server Machine Learning platform,Breakout: 45 Minute,Advanced (300),Session,Rony Chatterjee,2019-09-09T21:10:12Z
 84124,BRK3230,SQL Server on Linux in Azure Virtual Machines: Get started in minutes,Breakout: 45 Minute,Advanced (300),Session,Mine Tokus,2019-09-11T18:00:13Z
@@ -318,7 +307,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 81176,BRK3102,Using data loss prevention policies to prevent oversharing of sensitive emails and documents in Office 365,Breakout: 45 Minute,Advanced (300),Session,Vaibhav Upadhyay;Samson Chan,2019-09-11T19:25:50Z
 79639,BRK2089,Using the Windows Insider Program to be successful with the next version of Windows,Breakout: 45 Minute,Intermediate (200),Customer Showcase,Dona Sarkar;Daniel Martinoli;Octavian Clinci,2019-09-09T18:55:12Z
 82954,BRK3177,Virtual Machine Manager 2019 and Data Protection Manager 2019: Customer success stories and what’s next,Breakout: 45 Minute,Advanced (300),Session,Vithalprasad Gaitonde​;Christoph Pfurtscheller,2019-09-06T18:56:03Z
-81128,BRK1008,Visio roadmap: Now and beyond,Breakout: 75 Minute,Foundational (100),Session,,2019-09-11T17:45:12Z
 81613,BRK3066,Visual Studio Code tips and tricks,Breakout: 45 Minute,Advanced (300),Session,,2019-09-12T17:11:04Z
 79804,BRK2109,We've got your back: Team up with Microsoft's security experts to respond to critical threats,Breakout: 45 Minute,Intermediate (200),Session,Jessica Payne;Eric Olson,2019-09-11T20:11:17Z
 81601,BRK3061,Web app network security made easy,Breakout: 45 Minute,Advanced (300),Session,Christina Compy,2019-09-11T22:30:56Z
@@ -340,7 +328,6 @@ Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Updat
 82952,BRK3176,Windows containers and the Azure Kubernetes Service,Breakout: 45 Minute,Advanced (300),Session,Taylor Brown,2019-09-02T03:00:58Z
 79739,BRK1020,Windows Sandbox: Execution of Untrusted Software in Isolation,Breakout: 45 Minute,Foundational (100),Session,Margarit Chenchev,2019-09-12T18:46:26Z
 81692,BRK4010,Windows security internals: Containers for the win,Breakout: 45 Minute,Expert (400),Session,Chris Jackson,2019-09-06T22:20:12Z
-81704,BRK2129,Windows Server: What's new and what's next,Breakout: 75 Minute,Intermediate (200),Session,Bernardo Caldas,2019-09-09T18:30:58Z
 81728,BRK3110,Winning strategies for identity security and governance,Breakout: 45 Minute,Advanced (300),Session,Alex Weinert;Joseph Dadzie,2019-09-11T19:40:13Z
 81635,BRK4007,Working with the Microsoft identity platform,Breakout: 45 Minute,Expert (400),Session,,2019-09-06T20:55:11Z
 83188,BRK2190,Wow customers with industry-specific solutions built on the Microsoft 365 platform,Breakout: 45 Minute,Intermediate (200),Session,,2019-09-11T17:55:13Z
