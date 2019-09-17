@@ -1,103 +1,104 @@
 # Search Results Summary
-### Ran at: 2019-09-13T09:02:03-04:00
+### Ran at: 2019-09-17T15:45:25-04:00
 --------------------------
-#### Received 510 results in total
+#### Received 615 results in total
 
 SESSIONTYPE: 3 Categories
 -------------------------
-0. Breakout: 45 Minute: 334
-1. Theater: 20 Minute: 163
-2. Breakout: 75 Minute: 13
+0. Breakout: 45 Minute: 388
+1. Theater: 20 Minute: 212
+2. Breakout: 75 Minute: 15
 
 LEVEL: 4 Categories
 -------------------
-0. Advanced (300): 232
-1. Intermediate (200): 195
-2. Foundational (100): 66
-3. Expert (400): 17
+0. Advanced (300): 262
+1. Intermediate (200): 261
+2. Foundational (100): 73
+3. Expert (400): 19
 
 FORMAT: 4 Categories
 --------------------
-0. Session: 479
-1. Partner Led Session: 27
-2. Panel Discussion: 3
+0. Session: 582
+1. Partner Led Session: 28
+2. Panel Discussion: 4
 3. Customer Showcase: 1
 
-PRODUCTS: 54 Categories
+PRODUCTS: 57 Categories
 -----------------------
-0. Azure: 224
-1. Microsoft 365: 175
-2. Azure	Databases: 65
-3. Microsoft 365	Meetings & Voice: 63
-4. Microsoft 365	Applications: 58
-5. Microsoft 365	Device & App Management: 51
-6. Microsoft 365	Information Protection: 51
-7. Microsoft 365	Threat Protection: 49
-8. Microsoft 365	Identity & Access Management: 47
-9. Microsoft 365	Security Management: 47
-10. Azure	Migration: 46
-11. Microsoft 365	Files & Content: 44
-12. Azure	AI + Machine Learning: 38
-13. Microsoft 365	Email & Calendar: 37
-14. Microsoft 365	Task Management: 36
-15. Azure	Compute: 32
+0. Azure: 265
+1. Microsoft 365: 181
+2. Azure	Databases: 68
+3. Microsoft 365	Meetings and Voice: 67
+4. Microsoft 365	Applications: 60
+5. Azure	Migration: 53
+6. Microsoft 365	Information Protection: 52
+7. Microsoft 365	Device and Application Management: 51
+8. Microsoft 365	Threat Protection: 50
+9. Microsoft 365	Identity and Access Management: 49
+10. Microsoft 365	Security Management: 48
+11. Microsoft 365	Files and Content: 47
+12. Azure	AI + Machine Learning: 46
+13. Azure	Compute: 42
+14. Microsoft 365	Email and Calendar: 39
+15. Microsoft 365	Task Management: 37
 16. Microsoft 365	Advanced Compliance: 30
 17. Microsoft 365	Operating System : 30
-18. Microsoft 365	Social & Intranet: 26
-19. Azure	Developer Tools: 25
-20. Microsoft 365	Advanced Analytics: 23
-21. Azure	Management and Governance: 21
-22. Azure	Analytics: 20
-23. Azure	Microsoft Azure Stack: 19
-24. Azure	Security: 19
-25. Azure	Containers: 17
-26. Azure	Integration: 17
-27. Azure	Web: 17
-28. Azure	DevOps : 15
-29. Power Platform: 12
-30. Azure	Storage: 11
-31. Power Platform	Power BI: 10
-32. Azure	Identity: 9
-33. Azure	Mobile: 8
-34. Azure	Blockchain: 7
-35. Azure	Networking: 7
-36. Azure	Internet of Things: 6
-37. Azure	Media: 5
-38. Azure	Mixed Reality: 4
-39. Dynamics 365: 4
-40. NA: 4
-41. Dynamics 365	Business Central: 2
-42. Dynamics 365	Field Service: 2
-43. Dynamics 365	Product Visualize: 2
-44. Power Platform	Power BI Embedded: 2
-45. Dynamics 365	Customer Engagement: 1
-46. Dynamics 365	Customer Service: 1
-47. Dynamics 365	Finance and Operations: 1
-48. Dynamics 365	Marketing: 1
-49. Dynamics 365	Remote Assist: 1
-50. Dynamics 365	Retail: 1
-51. Dynamics 365	Sales: 1
-52. Power Platform	Microsoft Flow: 1
-53. Power Platform	PowerApps: 1
+18. Azure	Management and Governance: 29
+19. Azure	Security: 28
+20. Microsoft 365	Social and Intranet: 27
+21. Azure	Developer Tools: 26
+22. Microsoft 365	Advanced Analytics: 24
+23. Dynamics 365: 22
+24. Azure	Analytics: 21
+25. Azure	Containers: 21
+26. Azure	Microsoft Azure Stack: 21
+27. Power Platform: 21
+28. Azure	Web: 20
+29. Azure	DevOps : 19
+30. Azure	Integration: 19
+31. Azure	Storage: 12
+32. Azure	Identity: 10
+33. Power Platform	Power BI: 10
+34. Azure	Mobile: 9
+35. Power Platform	PowerApps: 9
+36. Azure	Blockchain: 8
+37. Azure	Internet of Things: 8
+38. Azure	Networking: 8
+39. Dynamics 365	Field Service: 7
+40. Dynamics 365	Finance and Operations: 7
+41. Azure	Media: 6
+42. Power Platform	Microsoft Flow: 6
+43. Azure	Mixed Reality: 5
+44. Dynamics 365	Business Central: 4
+45. Dynamics 365	Sales: 4
+46. NA: 4
+47. Dynamics 365	Customer Service: 3
+48. Dynamics 365	Retail: 3
+49. Dynamics 365	Customer Engagement: 2
+50. Dynamics 365	Marketing: 2
+51. Dynamics 365	Product Visualize: 2
+52. Dynamics 365	Remote Assist: 2
+53. Power Platform	Power BI Embedded: 2
+54. Dynamics 365	Guides: 1
+55. Dynamics 365	Talent: 1
+56. Dynamics 365	Virtual Agent for Customer Service: 1
 
-LEARNINGPATH: 18 Categories
+LEARNINGPATH: 16 Categories
 ---------------------------
-0. Developer: 3
-1. Fundamentals: 3
-2. Fundamentals	Dynamics 365 Fundamentals: 2
+0. Fundamentals: 5
+1. Fundamentals	Dynamics 365 Fundamentals: 5
+2. Developer: 3
 3. Infrastructure: 2
-4. Productivity: 2
-5. Productivity	Streamline workflows in Microsoft 365: 2
-6. Developer	Building applications for the cloud: 1
-7. Developer	Developer’s guide to AI: 1
-8. Developer	Modernizing Data, Applications, and APIs to the Cloud: 1
-9. Fundamentals	Azure fundamentals: 1
-10. Fundamentals	Power Platform Fundamentals: 1
-11. Infrastructure	Managing Cloud Operations: 1
-12. Infrastructure	Migrating Server Infrastructure: 1
-13. Productivity	Content collaboration, communication and engagement in the intelligent workplace: 1
-14. Productivity	Deploying Voice in Microsoft Teams: 1
-15. Productivity	Get the most out of online meetings with Microsoft Teams: 1
-16. Productivity	Journey to Microsoft Teams: 1
-17. Productivity	Transforming productivity with intelligent search : 1
+4. Developer	Building applications for the cloud: 1
+5. Developer	Developer’s guide to AI: 1
+6. Developer	Modernizing Data, Applications, and APIs to the Cloud: 1
+7. IT Management: 1
+8. IT Management	Deploying, managing, and servicing Windows, Office and all your devices: 1
+9. IT Management	IT administrator’s guide to managing productivity in the cloud.: 1
+10. IT Management	Improving Reliability through Modern Operations Practices: 1
+11. IT Management	Microsoft 365 Adoption and Change Management: 1
+12. Infrastructure	Managing Cloud Operations: 1
+13. Infrastructure	Migrating Server Infrastructure: 1
+14. Productivity: 1
+15. Productivity	Streamline workflows in Microsoft 365: 1
 
