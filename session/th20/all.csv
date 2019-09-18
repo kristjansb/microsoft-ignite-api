@@ -1,213 +1,216 @@
 Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Update
-83954,THR2149,Accelerate SAP S/4HANA deployment with Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T19:30:16Z
-83755,THR2130,Accelerating DevOps scenarios with Microsoft Teams,Theater: 20 Minute,Intermediate (200),Session,,2019-09-13T20:00:48Z
-83877,THR3107,Accelerating your onboarding to Microsoft Teams,Theater: 20 Minute,Advanced (300),Session,,2019-09-13T20:00:48Z
-83523,THR2178,Adopting the Microsoft Power Platform in the enterprise,Theater: 20 Minute,Intermediate (200),Session,Andrew Welsh,2019-09-17T19:30:16Z
-81075,THR2094,AI behind call center transcription: Using Azure Cognitive Services to improve customer experience,Theater: 20 Minute,Intermediate (200),Session,Panos Periorellis,2019-09-11T18:16:08Z
-83895,THR2129,AI within reach: Zero code solutions at enterprise scale with Azure Machine Learning [designer],Theater: 20 Minute,Intermediate (200),Session,,2019-09-15T20:36:05Z
-83969,THR2150,APIs and the open banking revolution,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T19:30:16Z
-83393,THR2121,"Automate your business with Nintex, Microsoft Teams, and Microsoft Dynamics 365",Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-13T20:00:48Z
-81296,THR4001,"Automate your tasks with Project, Planner, and Microsoft Flow",Theater: 20 Minute,Expert (400),Session,Monika Dragulski,2019-09-11T18:16:08Z
-82985,THR2034,Automating build and runtime protection for Azure workloads and applications,Theater: 20 Minute,Intermediate (200),Partner Led Session,Jeff Westphal,2019-09-10T00:26:05Z
-83220,APPS11,"Azure and the command line – options, tips and tricks",Theater: 20 Minute,Advanced (300),Session,,2019-09-15T10:25:54Z
-83950,THR2151,Azure encryption and key management for enterprise scale,Theater: 20 Minute,Intermediate (200),Session,Jack Richins,2019-09-17T19:30:16Z
-81088,THR2020,Azure Machine Learning on the edge: Deploying and running models on IoT devices,Theater: 20 Minute,Intermediate (200),Session,Manash Goswami,2019-09-11T18:16:08Z
-83930,THR3108,Azure Migrate: The next evolution,Theater: 20 Minute,Advanced (300),Session,Bharathram Sivaraman,2019-09-15T15:36:20Z
-83753,THR3097,Azure SQL Database managed instance disaster recovery architecture best practices,Theater: 20 Minute,Advanced (300),Session,,2019-09-14T01:45:13Z
-83875,THR1077,Azure SQL unified creation and management experience,Theater: 20 Minute,Foundational (100),Session,,2019-09-16T20:46:11Z
-83958,THR2152,Azure tips and tricks: Become more productive with Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,Michael Crump,2019-09-15T10:25:54Z
-83928,THR3109,Azure VMware Solutions: How to run native VMware workloads in Azure,Theater: 20 Minute,Advanced (300),Session,Sai Chaitanya,2019-09-15T15:26:29Z
-83943,THR2135,"Be a Windows Admin Center expert: Best practices for deployment, configuration, and security",Theater: 20 Minute,Intermediate (200),Session,Jeff Woolslayer,2019-09-11T18:16:08Z
-83967,THR2153,Best practices and tips for operating and monitoring apps on Azure App Service,Theater: 20 Minute,Intermediate (200),Session,Yutang Lin,2019-09-13T23:05:56Z
-83935,THR3110,Big data processing with Spark and .NET,Theater: 20 Minute,Advanced (300),Session,Michael Rys,2019-09-11T18:16:08Z
-83867,THR2179,Bring your channels together using the Channel Integration Framework V2,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T19:30:16Z
-81658,THR2125,Build a more engaged and data-driven customer and employee culture with Forms,Theater: 20 Minute,Intermediate (200),Session,,2019-09-11T18:16:08Z
-84116,THR2154,Build and deploy your ASP.NET Core application with DevOps in 20 minutes or less,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T19:30:16Z
-81082,THR3009,Build better form recognizer models with a human feedback loop,Theater: 20 Minute,Advanced (300),Session,Florian Luisier,2019-09-17T19:10:58Z
-83009,THR3087,Build great Microsoft 365 experiences on the web and beyond,Theater: 20 Minute,Advanced (300),Session,Markus Mielke,2019-09-11T18:16:08Z
-81141,THR2022,Build rich visual solutions using Visio APIs to solve real-world problems visually,Theater: 20 Minute,Intermediate (200),Session,,2019-09-16T22:06:19Z
-83901,THR3120,Building a golden image pipeline,Theater: 20 Minute,Advanced (300),Partner Led Session,Brad Stevens,2019-09-13T22:20:50Z
-83457,THR2118,Building a PowerShell module with Azure Automation,Theater: 20 Minute,Intermediate (200),Partner Led Session,Jaap Brasser,2019-09-14T01:20:12Z
-83014,THR3091,Building a Smart Chatbot with the Microsoft Graph Security API,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
-84175,THR3130,Building open standards based autonomous drones with Dronecode and AirSim,Theater: 20 Minute,Advanced (300),Session,Paul Stubbs,2019-09-17T19:30:16Z
-83984,THR3121,Building your own deployer machine,Theater: 20 Minute,Advanced (300),Session,Martin Woodward;Gopinath Chigakkagari,2019-09-13T23:05:56Z
-83976,THR3122,C# 8: Nullable Reference Types,Theater: 20 Minute,Advanced (300),Session,Mads Torgersen,2019-09-13T23:05:56Z
-83977,THR3123,C# 8: The good parts,Theater: 20 Minute,Advanced (300),Session,Mads Torgersen,2019-09-13T23:05:56Z
-84303,THR2180,Cloud reliability: Behind the scenes,Theater: 20 Minute,Intermediate (200),Session,Alistair Speirs,2019-09-17T19:30:16Z
-83946,THR2155,Clustering in the age of HCI and hybrid,Theater: 20 Minute,Intermediate (200),Session,John Marlin,2019-09-13T23:05:56Z
-81299,THR1005,Collaborate with tasks in Office docs and Microsoft Planner,Theater: 20 Minute,Foundational (100),Session,Monika Dragulski,2019-09-11T18:16:08Z
-83505,THR3093,Common Data Model (CDM): All you need to know about CDM,Theater: 20 Minute,Advanced (300),Session,Oleg Ovanesyan;Robert Bruckner;Mahesh Prakriya,2019-09-11T18:16:08Z
-79728,THR3050,Compromise is co$$$$tly! Detect account compromise early and stop the attackers in their tracks,Theater: 20 Minute,Advanced (300),Session,Ross Adams,2019-09-11T18:10:14Z
-81027,THR2017,Contact management in Microsoft Outlook,Theater: 20 Minute,Intermediate (200),Session,Lexi Torres,2019-09-13T20:00:48Z
-78382,THR1072,Content that delivers: Tips to create awesome SharePoint pages and news,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T18:01:07Z
-83975,THR2156,Create Linux apps from your Windows PC with Visual Studio Code,Theater: 20 Minute,Intermediate (200),Session,Matt Hernandez,2019-09-13T23:05:56Z
-83915,THR2136,"Create sophisticated, enterprise-ready bots from your existing data, with no code using Azure Cognitive Services QnA Maker",Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:45:13Z
-81644,THR3021,Create stunning 3D web experiences with Babylon.js,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
-81065,THR2018,Creating enterprise grade conversational user experiences with virtual assistants,Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:45:13Z
-83469,THR2127,Customizing Microsoft Teams EDU for your institution,Theater: 20 Minute,Intermediate (200),Session,Tosin Bosede,2019-09-13T20:00:48Z
-79786,THR2007,Delegate the scheduling of meetings to Scheduler and let AI help you,Theater: 20 Minute,Intermediate (200),Session,Charles Lee,2019-09-13T20:00:48Z
-83538,THR2120,Deploy an app in Azure Kubernetes and App Services with MySQL,Theater: 20 Minute,Intermediate (200),Session,Manish Kumar,2019-09-11T18:16:08Z
-83971,THR2157,Deploy apps to Kubernetes using CI/CD in 20 minutes,Theater: 20 Minute,Intermediate (200),Session,Sasha Rosenbaum,2019-09-13T23:05:56Z
-83874,THR2128,Deploy SQL Server 2019 big data cluster using Azure Data Studio,Theater: 20 Minute,Intermediate (200),Session,,2019-09-12T17:35:48Z
-83223,MOD41,Deploying and A/B testing without risks with deployment slots,Theater: 20 Minute,Advanced (300),Session,,2019-09-14T01:45:13Z
-83754,THR2137,Deploying Microsoft 365? FastTrack can help you do it securely,Theater: 20 Minute,Intermediate (200),Session,Chris Staab,2019-09-17T16:30:59Z
-79732,THR3052,Detecting cloud native attacks and automating remediation,Theater: 20 Minute,Advanced (300),Session,Sebastien Molendijk,2019-09-11T18:10:14Z
-83219,AIML21,Developers guide to AI: A data story,Theater: 20 Minute,Advanced (300),Session,Amy Boyd,2019-09-11T17:45:12Z
-81643,THR3020,Developing richer Microsoft 365 employee profiles through Microsoft Graph,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
-79741,THR2058,"Discover shadow IT across all your SaaS, IaaS, and PaaS resources",Theater: 20 Minute,Intermediate (200),Session,Danny Kadyshevitch,2019-09-17T19:10:58Z
-83454,THR1070,"Discover, classify, and report on sensitive data with Rubrik Sonar",Theater: 20 Minute,Foundational (100),Partner Led Session,Demetrius Malbrough,2019-09-10T00:26:05Z
-81452,THR2027,"Do more with Advanced eDiscovery: Custodian communications, working sets, and review",Theater: 20 Minute,Intermediate (200),Session,,2019-09-11T18:16:08Z
-79761,THR1058,Driving Microsoft Surface adoption in healthcare,Theater: 20 Minute,Foundational (100),Session,Alfred Ojukwu;Bruce Pagen;David Alexander,2019-09-11T23:41:13Z
-83493,THR2158,Employees are taking data when they quit,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-13T20:00:48Z
-83948,THR2159,End to end security for IoT,Theater: 20 Minute,Intermediate (200),Session,Idan Perkal,2019-09-13T23:05:56Z
-83892,THR2138,End user training: Microsoft 365 learning pathways demo,Theater: 20 Minute,Intermediate (200),Session,Matt Wolodarsky,2019-09-11T18:16:08Z
-82912,THR3131,Enhance performance with AIOps in Azure,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T02:55:53Z
-79350,THR1075,Enterprise-ready PDF solution in Microsoft Edge,Theater: 20 Minute,Foundational (100),Session,Aditi Gangwar,2019-09-11T18:05:13Z
-83961,THR2160,Event-based automation across hybrid environments using PowerShell in Azure Functions,Theater: 20 Minute,Intermediate (200),Session,Eamon O'Reilly,2019-09-13T23:05:56Z
-83340,THR1055,Experience more immersive meeting rooms with AI on Jabra PanaCast ,Theater: 20 Minute,Foundational (100),Partner Led Session,,2019-09-13T20:00:48Z
-81184,THR2099,"Extending data classification, labeling, and protection to Microsoft Power BI to better secure your sensitive data",Theater: 20 Minute,Intermediate (200),Session,Denis Mitzeski,2019-09-12T17:50:57Z
-81185,THR2100,"Extending data classification, labeling, and protection to SharePoint Online to better secure your sensitive data",Theater: 20 Minute,Intermediate (200),Session,Krishna Krishnamurthy;Kartik Anil Shah,2019-09-11T18:16:08Z
-81262,THR2131,FastTrack data migration services: How we can help,Theater: 20 Minute,Intermediate (200),Session,Steven Ngo,2019-09-17T16:30:59Z
-83544,THR3098,From CEO to Microsoft Regional Director: My journey as a woman in tech from Algeria,Theater: 20 Minute,Foundational (100),Session,Ouafa Benterki,2019-09-11T18:16:08Z
-83988,THR2139,From IT pros to heroes with Azure DevTest Labs,Theater: 20 Minute,Intermediate (200),Session,Tanmayee Kamath,2019-09-11T18:25:43Z
-83926,THR3111,GA launch of IPv6 for Azure VNETs,Theater: 20 Minute,Advanced (300),Session,Eric Lantz,2019-09-11T18:16:08Z
-81741,THR3080,Gain fine-grained access controls of your administrative roles with Azure Active Directory custom roles,Theater: 20 Minute,Advanced (300),Session,Vince Smith,2019-09-11T18:16:08Z
-83952,THR2161,Get a robust foundation on your cloud platform with proper governance practices,Theater: 20 Minute,Intermediate (200),Session,Abdul Sheik,2019-09-13T23:05:56Z
-83944,THR2140,Get more done with Windows Admin Center third-party extensions,Theater: 20 Minute,Intermediate (200),Session,Daniel Lee;Matt Wilson,2019-09-16T18:06:24Z
-84138,THR2162,Get more from your data with cognitive search and Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T19:30:16Z
-84298,THR2181,Get the most out of Microsoft Azure with Azure Advisor,Theater: 20 Minute,Intermediate (200),Session,Saket Gupta,2019-09-17T19:30:16Z
-81735,THR3076,Get the most out of passwordless authentication and avoid pitfalls,Theater: 20 Minute,Advanced (300),Session,Libby Brown;Rahul Verma,2019-09-11T19:50:13Z
-83951,THR2163,Get visibility into your hybrid network with Network Watcher,Theater: 20 Minute,Intermediate (200),Session,Ajay Gummadi,2019-09-13T23:05:56Z
-83985,THR2164,Getting started with DevOps for .NET Windows desktop apps and Visual Studio App Center,Theater: 20 Minute,Intermediate (200),Session,Winnie Li;Daniel Jacobson,2019-09-13T23:05:56Z
-83979,THR2165,Getting started with Microsoft Cognitive Services and the Azure SDKs,Theater: 20 Minute,Intermediate (200),Session,Kate Olszewska,2019-09-13T23:05:56Z
-79814,THR3055,Giving you the upper hand in combating web threats with Microsoft Defender ATP,Theater: 20 Minute,Advanced (300),Session,Patrick Jungles,2019-09-17T17:21:33Z
-79636,THR2141,Go behind the curtain with the Office Insider Program: Your feedback shapes the future of Office,Theater: 20 Minute,Intermediate (200),Session,Susan Cockrell,2019-09-11T18:10:14Z
-81740,THR3079,Govern access for employees and partners with entitlements lifecycle management,Theater: 20 Minute,Advanced (300),Session,Joe Castellanos,2019-09-17T04:16:04Z
-83986,THR2142,H&M's quest of bringing world-class developer experience with Azure and DevOps,Theater: 20 Minute,Intermediate (200),Session,Mikael Sjodin;Jakob Knutsson,2019-09-11T18:25:43Z
-81166,THR4000,Hands on with the new Microsoft Search API in the Microsoft Graph,Theater: 20 Minute,Expert (400),Session,,2019-09-11T18:16:08Z
-81187,THR2101,How customers are implementing Microsoft Information Protection solutions to secure their important data,Theater: 20 Minute,Intermediate (200),Session,Enrique Saggese,2019-09-11T18:16:08Z
-83982,THR2166,How Microsoft Core Services evolved its own monitoring practices by embracing DevOps on Azure,Theater: 20 Minute,Intermediate (200),Session,Dana Baxter,2019-09-13T23:05:56Z
-83983,THR2167,How Microsoft does DevOps,Theater: 20 Minute,Intermediate (200),Session,Martin Woodward;Alessandro Segala,2019-09-13T23:05:56Z
-83502,THR3096,How to improve Power BI content deployment efficiency,Theater: 20 Minute,Advanced (300),Session,Nimrod Shalit;Eli Greenwald,2019-09-11T18:16:08Z
-81312,THR2103,How to operationalize maxing out your security posture with the all new Microsoft Secure Score,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T02:55:53Z
-84178,THR1084,How to re-use your Windows Server licenses in Azure with Azure Hybrid Benefit,Theater: 20 Minute,Foundational (100),Session,Monojit Bhattacharya,2019-09-17T19:30:16Z
-80362,BRK2164,How to run the Global DevOps Bootcamp community event (with 10.000 participants) on Azure,Theater: 20 Minute,Intermediate (200),Session,Marcel de Vries,2019-09-12T00:15:17Z
-83487,THR1069,How to select the right Microsoft Teams device across different space types,Theater: 20 Minute,Intermediate (200),Session,Barbara Kim,2019-09-17T14:46:25Z
-81565,THR2030,How to use analytics to  drive your Microsoft 365 adoption,Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:30:54Z
-81090,THR2021,Implementing MLOps in the real world,Theater: 20 Minute,Intermediate (200),Session,Jordan Edwards,2019-09-11T18:16:08Z
-84307,THR2183,Implementing privacy and compliance standards in Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,David Burt,2019-09-17T19:30:16Z
-83011,THR3089,Increase productivity and engagement with Microsoft Graph powered user-centric notifications,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
-83916,THR2143,Integrate speech and text translation into your apps using Azure Cognitive Services Translator,Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:45:13Z
-83925,THR3112,Integrated support for Linux on Azure workloads overview,Theater: 20 Minute,Advanced (300),Session,Abirami Iyer,2019-09-11T18:16:08Z
-81313,THR2104,It’s not technology but people that are your first line of defense. It’s time to harden them!,Theater: 20 Minute,Intermediate (200),Session,Brandon Koeller,2019-09-11T18:16:08Z
-81183,THR3067,Know your data: Top five tips and tricks to better understand your sensitive data landscape,Theater: 20 Minute,Advanced (300),Session,Cathy Lin,2019-09-11T18:16:08Z
-81080,THR3008,"Knowledge mining for biomedical text: Using Text Analytics, Form Recognizer, and Cognitive Search to unlock value from clinical documents",Theater: 20 Minute,Advanced (300),Session,Ashly Yeo,2019-09-11T18:16:08Z
-81182,THR2098,Latest Microsoft Information Protection partner solutions to help protect your sensitive data,Theater: 20 Minute,Intermediate (200),Session,Benjy Levin,2019-09-17T18:40:13Z
-81459,THR1074,Learn more about intelligent information governance across all your data,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z
-81938,THR1064,Lessons learned from open-sourcing Windows Calculator,Theater: 20 Minute,Foundational (100),Session,Dave Grochocki,2019-09-11T18:16:08Z
-81659,THR2126,"Leverage Voice, Pen, and Touch for on-the-go productivity in the Modern Workplace",Theater: 20 Minute,Intermediate (200),Session,Dan Parish,2019-09-13T20:00:48Z
-83978,THR2168,Lifecycle of a Java app from initial deployment to running in production using Terraform and Ansible,Theater: 20 Minute,Intermediate (200),Session,Pui Chee Chan;Mark Gray,2019-09-13T23:05:56Z
-81434,THR2108,Live! MyAnalytics and Workplace Intelligence help you be productive everyday,Theater: 20 Minute,Intermediate (200),Session,,2019-09-11T18:16:08Z
-83963,THR3124,Machine learning with Python using serverless Azure Functions,Theater: 20 Minute,Advanced (300),Session,Sonia Kulkami,2019-09-13T23:05:56Z
-84180,THR2184,Manage and optimize your cloud cost with Azure Cost Management,Theater: 20 Minute,Intermediate (200),Session,Michael Flanakin,2019-09-17T19:35:12Z
-81734,THR3075,Managing and securing devices in a hybrid identity world,Theater: 20 Minute,Advanced (300),Session,Mike Stephens,2019-09-13T21:15:54Z
-82965,THR2112,Managing cloud native applications with Azure Blob Storage,Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:45:13Z
-83936,THR3113,Maximizing ROI in SQL Data Warehouse with enhanced workload management,Theater: 20 Minute,Advanced (300),Session,,2019-09-16T22:16:13Z
-79765,THR1060,Meet Microsoft Surface ,Theater: 20 Minute,Foundational (100),Session,Frank Buchholz,2019-09-11T18:10:14Z
-83987,THR2144,Microservices and cloud native: Standard Bank's DevOps journey,Theater: 20 Minute,Intermediate (200),Session,Vincenzo Criscuolo;Steve Magid,2019-09-11T22:20:12Z
-81564,THR2116,Microsoft 365 admin center demo-fest: Crash course on latest and greatest management tools,Theater: 20 Minute,Intermediate (200),Session,,2019-09-13T20:00:48Z
-81563,THR3084,Microsoft 365 admin: Ask us anything,Theater: 20 Minute,Advanced (300),Session,Aaron Woo;Ben Appleby,2019-09-13T20:00:48Z
-81566,THR3085,"Microsoft 365 network performance testing, scoring, and recommendations",Theater: 20 Minute,Advanced (300),Session,,2019-09-12T00:50:16Z
-83981,THR3125,Microsoft Azure: PowerShell secrets management,Theater: 20 Minute,Advanced (300),Session,Sydney Smith,2019-09-13T23:05:56Z
-83957,THR1082,Microsoft Dynamics 365 Business Central embedded in Office 365,Theater: 20 Minute,Foundational (100),Session,Errol Schoenfish,2019-09-17T19:35:12Z
-84133,THR1082R,Microsoft Dynamics 365 Business Central embedded in Office 365 (Repeat),Theater: 20 Minute,Foundational (100),Session,Errol Schoenfish,2019-09-17T19:35:12Z
-83010,THR3088,Microsoft Graph Toolkit: Two lines of code to get started with Microsoft Graph,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
-79764,THR1059,Microsoft Surface in education: Making it simple for IT while improving experiences for teachers and students,Theater: 20 Minute,Foundational (100),Session,Nashaat Soliman,2019-09-11T18:10:14Z
-83477,THR1066,Microsoft Teams demonstration,Theater: 20 Minute,Foundational (100),Session,Aya Tange,2019-09-13T20:00:48Z
-83463,THR3104,Microsoft Teams for firstline workers: Delighting guests and visitors in customer service industries,Theater: 20 Minute,Foundational (100),Session,Keara James,2019-09-13T20:00:48Z
-83462,THR3103,Microsoft Teams for firstline workers: Increasing coordination across your production line,Theater: 20 Minute,Foundational (100),Session,Keara James,2019-09-13T20:00:48Z
-83461,THR3102,Microsoft Teams for firstline workers: Unlocking the best experience for retail customers,Theater: 20 Minute,Foundational (100),Session,Keara James,2019-09-13T20:00:48Z
-83465,THR3106,Microsoft Teams for government workers,Theater: 20 Minute,Foundational (100),Session,Sankalp Jain,2019-09-13T20:00:48Z
-83481,THR1067,"Microsoft Teams on your phone: Tips, tricks, and what makes it unique",Theater: 20 Minute,Foundational (100),Session,Marissa Salazar,2019-09-13T20:00:48Z
-83389,THR2111,Microsoft tools and programs can jumpstart your SQL Server migration to Azure,Theater: 20 Minute,Intermediate (200),Session,,2019-09-15T05:35:15Z
-83929,THR3114,Migrate and protect your production applications running on Azure Disks,Theater: 20 Minute,Advanced (300),Session,Raman Kumar,2019-09-11T18:16:08Z
-83490,THR2115,Migrate your NFS workloads to Azure Blob Storage,Theater: 20 Minute,Intermediate (200),Session,,2019-09-12T17:20:59Z
-81081,THR2019,Mining your data for gold with Luis and Elad,Theater: 20 Minute,Intermediate (200),Session,Luis Cabrera Cordon,2019-09-16T20:51:34Z
-81739,THR3078,Modernize your authentiation with Azure Active Directory,Theater: 20 Minute,Advanced (300),Session,Jairo Calderon,2019-09-13T21:15:54Z
-83911,THR3115,Monitoring your environment to optimize the Microsoft Teams experience,Theater: 20 Minute,Advanced (300),Session,,2019-09-13T20:00:48Z
-81263,THR2132,Move to Windows 10 and Office 365 ProPlus with guidance from FastTrack,Theater: 20 Minute,Intermediate (200),Session,Brian Shiers,2019-09-17T19:15:13Z
-82960,THR2185,Moving from Microsoft Dynamics 365 on-premises to online,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T19:35:12Z
-81671,THR3074,MSIX App Attach: The future of app delivery in virtual environments,Theater: 20 Minute,Advanced (300),Session,,2019-09-13T20:00:48Z
-83008,THR3086,NBD: Training ML models with Microsoft Graph data connect ,Theater: 20 Minute,Advanced (300),Session,,2019-09-16T20:51:34Z
-79588,THR3003,"New, fast, and reliable Exchange Online Powershell cmdlets",Theater: 20 Minute,Advanced (300),Partner Led Session,,2019-09-13T20:00:48Z
-81458,THR1050,No more spreadsheets - assess and manage your IT risks with Compliance Score,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z
-81562,THR3083,Office 365 Groups: Ask us anything,Theater: 20 Minute,Advanced (300),Session,Kolvekar Loveleen Ramachandra;Nivedita Rajani,2019-09-13T20:00:48Z
-79345,THR1076,One more thing: Microsoft Edge on macOS,Theater: 20 Minute,Foundational (100),Session,Aditya Mohindra,2019-09-11T18:05:13Z
-79628,THR1071,Optimizing Workforce Itinerary Scheduling and Travel Time with Bing Maps,Theater: 20 Minute,Foundational (100),Session,Erik Lindeman,2019-09-16T19:31:04Z
-79075,THR2003,Outlook for Windows: In-app support brings you closer to the product team,Theater: 20 Minute,Intermediate (200),Session,,2019-09-12T15:55:59Z
-81026,THR2016,Outlook for Windows: What's new and what's next,Theater: 20 Minute,Intermediate (200),Session,,2019-09-13T20:00:48Z
-83960,THR2169,"Personalizer, an Azure Cognitive Service powered by reinforcement learning",Theater: 20 Minute,Intermediate (200),Session,Tina Coll,2019-09-13T23:05:56Z
-83501,THR3094,Power BI and Microsoft Information Protection: The game changer for secure BI,Theater: 20 Minute,Advanced (300),Session,Adi Regev;Anton Fritz;Eyal Carmel,2019-09-11T18:16:08Z
-83980,THR2170,Profiling your ASP.NET applications in Visual Studio 2019,Theater: 20 Minute,Intermediate (200),Session,Esteban Herrera,2019-09-13T23:05:56Z
-82967,THR1054,Propelling your career to the next level with Microsoft Azure and Pluralsight,Theater: 20 Minute,Foundational (100),Partner Led Session,,2019-09-15T22:40:11Z
-79727,THR3049,Protect against waves of email attacks - Introducing campaign views in Office 365 ATP,Theater: 20 Minute,Advanced (300),Session,Mihai Costea,2019-09-11T18:10:14Z
-83758,THR1073,Protect your data in Microsoft Teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-13T20:00:48Z
-79742,THR3054,Protecting any app – in the cloud and on-premises,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T19:10:58Z
-81180,THR2096,Quick tour of the latest and greatest Data Loss Prevention capabilities in Microsoft 365 to help prevent oversharing of sensitive information,Theater: 20 Minute,Intermediate (200),Session,Mas Libman,2019-09-17T12:30:19Z
-83890,THR2133,Re-designing the modern workplace adoption: A new perspective,Theater: 20 Minute,Intermediate (200),Session,,2019-09-15T07:41:35Z
-81737,THR3077,Reduce IT friction with seamless identity end-user experiences,Theater: 20 Minute,Advanced (300),Session,Kalila Simpson,2019-09-13T20:21:49Z
-81451,THR3011,Reduce risk with Microsoft 365 Access Control Technologies,Theater: 20 Minute,Advanced (300),Session,Abhishek Kumar,2019-09-13T20:00:48Z
-83966,THR3126,Reducing time to development of SAP solutions by 100x with Azure Logic Apps,Theater: 20 Minute,Advanced (300),Session,Jon Fancey,2019-09-13T23:05:56Z
-83974,THR4006,Run Python in production without compromising your security,Theater: 20 Minute,Expert (400),Session,Steve Dower,2019-09-13T23:10:12Z
-79642,THR3045,Run your own Windows Insider Program with Group Policy and Intune,Theater: 20 Minute,Advanced (300),Session,Blair Glennon,2019-09-11T18:10:14Z
-79644,THR3046,Run your own Windows Insider Program with WSUS and SCCM,Theater: 20 Minute,Advanced (300),Session,Blair Glennon,2019-09-11T18:10:14Z
-83540,THR2124,Running Postgres at scale on-premises and in the cloud,Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:45:13Z
-83953,THR2171,SAP migration Do’s and Don’ts: Planning and executing a large scale SAP landscape migration,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T19:35:12Z
-79738,THR3053,Securing AWS and Google Cloud Platform,Theater: 20 Minute,Advanced (300),Session,Anisha Gupta,2019-09-17T07:36:18Z
-83221,MCO11,Securing Azure IaaS virtual machines,Theater: 20 Minute,Advanced (300),Session,,2019-09-14T01:45:13Z
-83391,THR1065,SentryOne success story featuring Microsoft Teams and Crestron Flex,Theater: 20 Minute,Foundational (100),Partner Led Session,Andrew Gross;Connor Bright,2019-09-13T20:00:48Z
-83959,THR3127,Serverless Kubernetes with Azure Functions and Azure Kubernetes Service (AKS),Theater: 20 Minute,Advanced (300),Session,Ria Bhatia,2019-09-13T23:05:56Z
-83940,THR1083,Share big data easily and securely with other organizations leveraging Azure Data Share,Theater: 20 Minute,Foundational (100),Session,Jie Feng,2019-09-13T23:05:56Z
-79726,THR3005,Sliding laterally: How attackers move through your network,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T02:01:19Z
-83896,THR2145,Staying up to date with the Microsoft Azure roadmap,Theater: 20 Minute,Intermediate (200),Session,Evelyn Ozzie,2019-09-11T18:16:08Z
-83942,THR2146,"Stop paying someone else to do it: Automatically monitor, secure, and update your on-premises servers from Azure with Windows Admin Center",Theater: 20 Minute,Intermediate (200),Session,Haley Rowland,2019-09-17T19:01:13Z
-83937,THR3116,Streaming data with Azure Event Hubs and Kafka,Theater: 20 Minute,Advanced (300),Session,,2019-09-14T01:45:13Z
-81742,THR2110,Streamline your business processes and development with Azure Active Directory APIs in Microsoft Graph,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T14:21:25Z
-83759,THR1078,Streamline your business processes with automation using Microsoft Teams and Microsoft Flow,Theater: 20 Minute,Foundational (100),Session,,2019-09-13T20:00:48Z
-83760,THR1079,Streamline your business processes with Microsoft Teams and the Microsoft Power Apps,Theater: 20 Minute,Foundational (100),Session,,2019-09-13T20:00:48Z
-79767,THR1061,Surface AutoPilot: The easiest deployment for today’s mobile workforce,Theater: 20 Minute,Foundational (100),Session,Sean McLaren,2019-09-13T23:05:56Z
-83771,THR2172,Tailoring Microsoft Teams and delegating administration in Office 365,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-12T23:05:12Z
-83239,THR2114,Tap into Microsoft Teams Rooms with Logitech,Theater: 20 Minute,Intermediate (200),Partner Led Session,Vic Bhagat,2019-09-13T20:00:48Z
-81333,THR2105,Test and debug MSIX apps remotely using Windows Device Portal,Theater: 20 Minute,Intermediate (200),Session,Adam Braden,2019-09-11T18:16:08Z
-83770,THR2173,The ABCs of WVD migration,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-12T23:00:54Z
-82867,THR3117,The evolution of Windows feature update deployment ,Theater: 20 Minute,Advanced (300),Session,,2019-09-16T16:50:12Z
-81241,THR1047,The new Microsoft Project: Built for teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z
-81246,THR1048,The new Microsoft Project: Built for teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-11T18:16:08Z
-83013,THR3090,Third-party single sign-on in Office add-ins: Admin consent GA,Theater: 20 Minute,Advanced (300),Session,Nitesh Golchha,2019-09-11T18:16:08Z
-79725,THR3048,Threats in the wild: Detecting on-premises threats with Azure Advanced Threat Protection,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T06:50:48Z
-83902,THR2147,Three ways to build bots with Azure AI that can make you a hero in your organization,Theater: 20 Minute,Intermediate (200),Session,,2019-09-12T17:11:04Z
-83939,THR3128,Time series and machine learning with Azure Data Explorer,Theater: 20 Minute,Advanced (300),Session,Manoj Raheja,2019-09-13T23:05:56Z
-83912,THR1080,"Tools, templates, and teamwork: Using Microsoft Teams to drive adoption",Theater: 20 Minute,Foundational (100),Session,,2019-09-13T20:00:48Z
-81186,THR3068,Top five best practices to accelerate your deployment of Microsoft Information Protection solutions,Theater: 20 Minute,Advanced (300),Session,Mavi Etzyon-Grizer;Nishan DeSilva,2019-09-11T19:11:32Z
-83222,MSI11,Top five new features of Windows Server 2019,Theater: 20 Minute,Advanced (300),Session,,2019-09-14T01:45:13Z
-81181,THR2097,Top new information protection capabilities announced at Microsoft Ignite,Theater: 20 Minute,Intermediate (200),Session,Gagan Gulati,2019-09-11T18:16:08Z
-79352,THR1081,Top ten reasons why you should break up with Chrome,Theater: 20 Minute,Foundational (100),Session,Wale Martins,2019-09-11T18:05:13Z
-83012,THR3095,Unified PowerShell experience for Microsoft Graph - preview,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
-83420,THR2122,Unify Microsoft Teams across tenants to accelerate M&As and cloud consolidations,Theater: 20 Minute,Intermediate (200),Partner Led Session,Dennis Rothmel,2019-09-10T00:26:05Z
-79816,THR3056,Unleash the hunter in you: Advanced hunting in Microsoft Defender ATP,Theater: 20 Minute,Advanced (300),Session,Hadar Feldman,2019-09-11T18:10:14Z
-81139,THR2095,Unlock the power of data driven diagramming with Microsoft Excel and Visio,Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:45:13Z
-83972,THR3129,Unlocking AI insights from your video using Video Indexer,Theater: 20 Minute,Advanced (300),Session,Anika Zaman,2019-09-13T23:05:56Z
-83941,THR3118,"Unparalleled ways that Microsoft makes data sharing flexible, safe, and astonishingly simple",Theater: 20 Minute,Advanced (300),Session,,2019-09-14T01:45:13Z
-83949,THR2174,Using Azure Sentinel to supercharge your threat hunting,Theater: 20 Minute,Intermediate (200),Session,Pete Bryan,2019-09-13T23:05:56Z
-83964,THR2175,Using HPC Cache to reduce latency,Theater: 20 Minute,Intermediate (200),Session,Scott Jeschonek,2019-09-13T23:05:56Z
-83873,THR2148,What's new in Azure Data Studio notebooks,Theater: 20 Minute,Intermediate (200),Session,,2019-09-14T01:45:13Z
-79040,THR3039,What's new in the Office Customization Tool,Theater: 20 Minute,Advanced (300),Session,,2019-09-13T20:00:48Z
-83938,THR3119,What's new with Azure Data Lake Storage,Theater: 20 Minute,Advanced (300),Session,Raji Easwaran,2019-09-11T18:16:08Z
-83738,THR3092,What’s new and what's next in Power BI embedded analytics,Theater: 20 Minute,Advanced (300),Session,,2019-09-11T18:16:08Z
-81736,THR2109,What’s new in Azure Active Directory Identity Protection,Theater: 20 Minute,Advanced (300),Session,Adam Stoffel;Jose Rojas,2019-09-13T20:31:49Z
-79039,THR3038,What’s new in Office cloud policy service,Theater: 20 Minute,Advanced (300),Session,,2019-09-13T20:00:48Z
-83491,THR2119,"Why devices matter: Get the best collaboration experience on Microsoft Teams, end-to-end",Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-13T20:00:48Z
-83539,THR2123,Why enterprises are moving from Oracle to Azure Postgres,Theater: 20 Minute,Intermediate (200),Session,Saurabh Modi,2019-09-11T18:16:08Z
-81669,THR3028,Windows 10 in S mode: The complete trusted device experience,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T01:25:13Z
-83945,THR2176,Windows Admin Center: Better together with System Center and Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,Sameul Li,2019-09-13T23:05:56Z
-79790,THR2008,You do meetings? So do we! Come see new meeting features in Outlook on the web!,Theater: 20 Minute,Intermediate (200),Session,,2019-09-13T20:00:48Z
+83954,THR2149,Accelerate SAP S/4HANA deployment with Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83755,THR2130,Accelerating DevOps scenarios with Microsoft Teams,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83877,THR3107,Accelerating your onboarding to Microsoft Teams,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+83523,THR2178,Adopting the Microsoft Power Platform in the enterprise,Theater: 20 Minute,Intermediate (200),Session,Andrew Welsh,2019-09-17T23:40:12Z
+81075,THR2094,AI behind call center transcription: Using Azure Cognitive Services to improve customer experience,Theater: 20 Minute,Intermediate (200),Session,Panos Periorellis,2019-09-17T23:40:12Z
+83895,THR2129,AI within reach: Zero code solutions at enterprise scale with Azure Machine Learning [designer],Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83969,THR2150,APIs and the open banking revolution,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83393,THR2121,"Automate your business with Nintex, Microsoft Teams, and Microsoft Dynamics 365",Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-17T23:40:12Z
+81296,THR4001,"Automate your tasks with Project, Planner, and Microsoft Flow",Theater: 20 Minute,Expert (400),Session,Monika Dragulski,2019-09-17T23:40:12Z
+82985,THR2034,Automating build and runtime protection for Azure workloads and applications,Theater: 20 Minute,Intermediate (200),Partner Led Session,Jeff Westphal,2019-09-17T23:40:12Z
+83220,APPS11,"Azure and the command line – options, tips and tricks",Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83950,THR2151,Azure encryption and key management for enterprise scale,Theater: 20 Minute,Intermediate (200),Session,Jack Richins,2019-09-17T23:45:28Z
+81088,THR2020,Azure Machine Learning on the edge: Deploying and running models on IoT devices,Theater: 20 Minute,Intermediate (200),Session,Manash Goswami,2019-09-17T23:40:12Z
+83930,THR3108,Azure Migrate: The next evolution,Theater: 20 Minute,Advanced (300),Session,Bharathram Sivaraman,2019-09-17T23:45:28Z
+83753,THR3097,Azure SQL Database managed instance disaster recovery architecture best practices,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+83875,THR1077,Azure SQL unified creation and management experience,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:45:28Z
+83958,THR2152,Azure tips and tricks: Become more productive with Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,Michael Crump,2019-09-17T23:45:28Z
+83928,THR3109,Azure VMware Solutions: How to run native VMware workloads in Azure,Theater: 20 Minute,Advanced (300),Session,Sai Chaitanya,2019-09-17T23:45:28Z
+83943,THR2135,"Be a Windows Admin Center expert: Best practices for deployment, configuration, and security",Theater: 20 Minute,Intermediate (200),Session,Jeff Woolslayer,2019-09-17T23:45:28Z
+83967,THR2153,Best practices and tips for operating and monitoring apps on Azure App Service,Theater: 20 Minute,Intermediate (200),Session,Yutang Lin,2019-09-17T23:45:28Z
+83935,THR3110,Big data processing with Spark and .NET,Theater: 20 Minute,Advanced (300),Session,Michael Rys,2019-09-17T23:45:28Z
+83867,THR2179,Bring your channels together using the Channel Integration Framework V2,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+81658,THR2125,Build a more engaged and data-driven customer and employee culture with Forms,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+84116,THR2154,Build and deploy your ASP.NET Core application with DevOps in 20 minutes or less,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+81082,THR3009,Build better form recognizer models with a human feedback loop,Theater: 20 Minute,Advanced (300),Session,Florian Luisier,2019-09-17T23:40:12Z
+83009,THR3087,Build great Microsoft 365 experiences on the web and beyond,Theater: 20 Minute,Advanced (300),Session,Markus Mielke,2019-09-17T23:40:12Z
+81141,THR2022,Build rich visual solutions using Visio APIs to solve real-world problems visually,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83901,THR3120,Building a golden image pipeline,Theater: 20 Minute,Advanced (300),Partner Led Session,Brad Stevens,2019-09-17T23:45:28Z
+83457,THR2118,Building a PowerShell module with Azure Automation,Theater: 20 Minute,Intermediate (200),Partner Led Session,Jaap Brasser,2019-09-17T23:40:12Z
+83014,THR3091,Building a Smart Chatbot with the Microsoft Graph Security API,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83011,THR3089,Building great push notifications for your Microsoft 365 users,Theater: 20 Minute,Advanced (300),Session,,2019-09-18T15:21:06Z
+84175,THR3130,Building open standards based autonomous drones with Dronecode and AirSim,Theater: 20 Minute,Advanced (300),Session,,2019-09-18T01:45:35Z
+83984,THR3121,Building your own deployer machine,Theater: 20 Minute,Advanced (300),Session,Martin Woodward;Gopinath Chigakkagari,2019-09-17T23:45:28Z
+83976,THR3122,C# 8: Nullable Reference Types,Theater: 20 Minute,Advanced (300),Session,Mads Torgersen,2019-09-17T23:45:28Z
+83977,THR3123,C# 8: The good parts,Theater: 20 Minute,Advanced (300),Session,Mads Torgersen,2019-09-17T23:45:28Z
+84303,THR2180,Cloud reliability: Behind the scenes,Theater: 20 Minute,Intermediate (200),Session,Alistair Speirs,2019-09-17T23:45:28Z
+83946,THR2155,Clustering in the age of HCI and hybrid,Theater: 20 Minute,Intermediate (200),Session,John Marlin,2019-09-17T23:45:28Z
+81299,THR1005,Collaborate with tasks in Office docs and Microsoft Planner,Theater: 20 Minute,Foundational (100),Session,Monika Dragulski,2019-09-17T23:40:12Z
+83505,THR3093,Common Data Model (CDM): All you need to know about CDM,Theater: 20 Minute,Advanced (300),Session,Oleg Ovanesyan;Robert Bruckner;Mahesh Prakriya,2019-09-17T23:40:12Z
+79728,THR3050,Compromise is co$$$$tly! Detect account compromise early and stop the attackers in their tracks,Theater: 20 Minute,Advanced (300),Session,Ross Adams,2019-09-17T23:40:12Z
+81027,THR2017,Contact management in Microsoft Outlook,Theater: 20 Minute,Intermediate (200),Session,Lexi Torres,2019-09-17T23:40:12Z
+78382,THR1072,Content that delivers: Tips to create awesome SharePoint pages and news,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:40:12Z
+83975,THR2156,Create Linux apps from your Windows PC with Visual Studio Code,Theater: 20 Minute,Intermediate (200),Session,Matt Hernandez,2019-09-17T23:45:28Z
+83915,THR2136,"Create sophisticated, enterprise-ready bots from your existing data, with no code using Azure Cognitive Services QnA Maker",Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+81644,THR3021,Create stunning 3D web experiences with Babylon.js,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+81065,THR2018,Creating enterprise grade conversational user experiences with virtual assistants,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83469,THR2127,Customizing Microsoft Teams EDU for your institution,Theater: 20 Minute,Intermediate (200),Session,Tosin Bosede,2019-09-17T23:40:12Z
+79786,THR2007,Delegate the scheduling of meetings to Scheduler and let AI help you,Theater: 20 Minute,Intermediate (200),Session,Charles Lee,2019-09-17T23:40:12Z
+83538,THR2120,Deploy an app in Azure Kubernetes and App Services with MySQL,Theater: 20 Minute,Intermediate (200),Session,Manish Kumar,2019-09-17T23:45:28Z
+83971,THR2157,Deploy apps to Kubernetes using CI/CD in 20 minutes,Theater: 20 Minute,Intermediate (200),Session,Sasha Rosenbaum,2019-09-17T23:45:28Z
+83874,THR2128,Deploy SQL Server 2019 big data cluster using Azure Data Studio,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83223,MOD41,Deploying and A/B testing without risks with deployment slots,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83754,THR2137,Deploying Microsoft 365? FastTrack can help you do it securely,Theater: 20 Minute,Intermediate (200),Session,Chris Staab,2019-09-17T23:45:28Z
+79732,THR3052,Detecting cloud native attacks and automating remediation,Theater: 20 Minute,Advanced (300),Session,Sebastien Molendijk,2019-09-17T23:40:12Z
+83219,AIML21,Developers guide to AI: A data story,Theater: 20 Minute,Advanced (300),Session,,2019-09-18T08:40:12Z
+81643,THR3020,Developing richer Microsoft 365 employee profiles through Microsoft Graph,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+79741,THR2058,"Discover shadow IT across all your SaaS, IaaS, and PaaS resources",Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83454,THR1070,"Discover, classify, and report on sensitive data with Rubrik Sonar",Theater: 20 Minute,Foundational (100),Partner Led Session,Demetrius Malbrough,2019-09-17T23:40:12Z
+81452,THR2027,"Do more with Advanced eDiscovery: Custodian communications, working sets, and review",Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+79761,THR1058,Driving Microsoft Surface adoption in healthcare,Theater: 20 Minute,Foundational (100),Session,Alfred Ojukwu;Bruce Pagen;David Alexander,2019-09-17T23:40:12Z
+83493,THR2158,Employees are taking data when they quit,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-17T23:40:12Z
+83948,THR2159,End to end security for IoT,Theater: 20 Minute,Intermediate (200),Session,Idan Perkal,2019-09-17T23:45:28Z
+83892,THR2138,End user training: Microsoft 365 learning pathways demo,Theater: 20 Minute,Intermediate (200),Session,Matt Wolodarsky,2019-09-17T23:45:28Z
+82912,THR3131,Enhance performance with AIOps in Azure,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+79350,THR1075,Enterprise-ready PDF solution in Microsoft Edge,Theater: 20 Minute,Foundational (100),Session,Aditi Gangwar,2019-09-17T23:40:12Z
+83961,THR2160,Event-based automation across hybrid environments using PowerShell in Azure Functions,Theater: 20 Minute,Intermediate (200),Session,Eamon O'Reilly,2019-09-17T23:45:28Z
+83340,THR1055,Experience more immersive meeting rooms with AI on Jabra PanaCast ,Theater: 20 Minute,Foundational (100),Partner Led Session,,2019-09-17T23:40:12Z
+81184,THR2099,"Extending data classification, labeling, and protection to Microsoft Power BI to better secure your sensitive data",Theater: 20 Minute,Intermediate (200),Session,Denis Mitzeski,2019-09-17T23:40:12Z
+81185,THR2100,"Extending data classification, labeling, and protection to SharePoint Online to better secure your sensitive data",Theater: 20 Minute,Intermediate (200),Session,Krishna Krishnamurthy,2019-09-18T06:40:11Z
+81262,THR2131,FastTrack data migration services: How we can help,Theater: 20 Minute,Intermediate (200),Session,Steven Ngo,2019-09-17T23:40:12Z
+83544,THR3098,From CEO to Microsoft Regional Director: My journey as a woman in tech from Algeria,Theater: 20 Minute,Foundational (100),Session,Ouafa Benterki,2019-09-17T23:40:12Z
+83988,THR2139,From IT pros to heroes with Azure DevTest Labs,Theater: 20 Minute,Intermediate (200),Session,Tanmayee Kamath,2019-09-17T23:45:28Z
+83926,THR3111,GA launch of IPv6 for Azure VNETs,Theater: 20 Minute,Advanced (300),Session,Eric Lantz,2019-09-17T23:45:28Z
+81741,THR3080,Gain fine-grained access controls of your administrative roles with Azure Active Directory custom roles,Theater: 20 Minute,Advanced (300),Session,Vince Smith,2019-09-17T23:40:12Z
+83952,THR2161,Get a robust foundation on your cloud platform with proper governance practices,Theater: 20 Minute,Intermediate (200),Session,Abdul Sheik,2019-09-17T23:45:28Z
+83944,THR2140,Get more done with Windows Admin Center third-party extensions,Theater: 20 Minute,Intermediate (200),Session,Daniel Lee;Matt Wilson,2019-09-17T23:45:28Z
+84138,THR2162,Get more from your data with cognitive search and Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+84282,THR1085,Get the help you need with Azure support plans,Theater: 20 Minute,Foundational (100),Session,Sharon Loh,2019-09-18T13:55:59Z
+84298,THR2181,Get the most out of Microsoft Azure with Azure Advisor,Theater: 20 Minute,Intermediate (200),Session,Saket Gupta,2019-09-17T23:45:28Z
+81735,THR3076,Get the most out of passwordless authentication and avoid pitfalls,Theater: 20 Minute,Advanced (300),Session,Libby Brown;Rahul Verma,2019-09-17T23:40:12Z
+83951,THR2163,Get visibility into your hybrid network with Network Watcher,Theater: 20 Minute,Intermediate (200),Session,Ajay Gummadi,2019-09-17T23:45:28Z
+83985,THR2164,Getting started with DevOps for .NET Windows desktop apps and Visual Studio App Center,Theater: 20 Minute,Intermediate (200),Session,Winnie Li;Daniel Jacobson,2019-09-17T23:45:28Z
+83979,THR2165,Getting started with Microsoft Cognitive Services and the Azure SDKs,Theater: 20 Minute,Intermediate (200),Session,Kate Olszewska,2019-09-17T23:45:28Z
+79814,THR3055,Giving you the upper hand in combating web threats with Microsoft Defender ATP,Theater: 20 Minute,Advanced (300),Session,Patrick Jungles,2019-09-17T23:40:12Z
+79636,THR2141,Go behind the curtain with the Office Insider Program: Your feedback shapes the future of Office,Theater: 20 Minute,Intermediate (200),Session,Susan Cockrell,2019-09-17T23:40:12Z
+81740,THR3079,Govern access for employees and partners with entitlements lifecycle management,Theater: 20 Minute,Advanced (300),Session,Joe Castellanos,2019-09-17T23:40:12Z
+83986,THR2142,H&M's quest of bringing world-class developer experience with Azure and DevOps,Theater: 20 Minute,Intermediate (200),Session,Mikael Sjodin;Jakob Knutsson,2019-09-17T23:45:28Z
+81166,THR4000,Hands on with the new Microsoft Search API in the Microsoft Graph,Theater: 20 Minute,Expert (400),Session,,2019-09-17T23:40:12Z
+81187,THR2101,How customers are implementing Microsoft Information Protection solutions to secure their important data,Theater: 20 Minute,Intermediate (200),Session,Enrique Saggese,2019-09-17T23:40:12Z
+83982,THR2166,How Microsoft Core Services evolved its own monitoring practices by embracing DevOps on Azure,Theater: 20 Minute,Intermediate (200),Session,Dana Baxter,2019-09-17T23:45:28Z
+83983,THR2167,How Microsoft does DevOps,Theater: 20 Minute,Intermediate (200),Session,Martin Woodward;Alessandro Segala,2019-09-17T23:45:28Z
+83502,THR3096,How to improve Power BI content deployment efficiency,Theater: 20 Minute,Advanced (300),Session,Nimrod Shalit;Eli Greenwald,2019-09-17T23:45:28Z
+81312,THR2103,How to operationalize maxing out your security posture with the all new Microsoft Secure Score,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+84178,THR1084,How to re-use your Windows Server licenses in Azure with Azure Hybrid Benefit,Theater: 20 Minute,Foundational (100),Session,Monojit Bhattacharya,2019-09-17T23:45:28Z
+80362,BRK2164,How to run the Global DevOps Bootcamp community event (with 10.000 participants) on Azure,Theater: 20 Minute,Intermediate (200),Session,Marcel de Vries,2019-09-17T23:40:12Z
+83487,THR1069,How to select the right Microsoft Teams device across different space types,Theater: 20 Minute,Intermediate (200),Session,Barbara Kim,2019-09-17T23:40:12Z
+81565,THR2030,How to use analytics to  drive your Microsoft 365 adoption,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+81090,THR2021,Implementing MLOps in the real world,Theater: 20 Minute,Intermediate (200),Session,Jordan Edwards,2019-09-17T23:40:12Z
+84307,THR2183,Implementing privacy and compliance standards in Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,David Burt,2019-09-17T23:45:28Z
+84141,THR1086,Improve workplace productivity and save money with GPU partitioning in Azure virtual desktops,Theater: 20 Minute,Foundational (100),Partner Led Session,Isidro Gonzalez,2019-09-18T13:55:59Z
+83916,THR2143,Integrate speech and text translation into your apps using Azure Cognitive Services Translator,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83925,THR3112,Integrated support for Linux on Azure workloads overview,Theater: 20 Minute,Advanced (300),Session,Abirami Iyer,2019-09-17T23:45:28Z
+81313,THR2104,It’s not technology but people that are your first line of defense. It’s time to harden them!,Theater: 20 Minute,Intermediate (200),Session,Brandon Koeller,2019-09-17T23:40:12Z
+81183,THR3067,Know your data: Top five tips and tricks to better understand your sensitive data landscape,Theater: 20 Minute,Advanced (300),Session,Cathy Lin,2019-09-17T23:40:12Z
+81080,THR3008,"Knowledge mining for biomedical text: Using Text Analytics, Form Recognizer, and Cognitive Search to unlock value from clinical documents",Theater: 20 Minute,Advanced (300),Session,Ashly Yeo,2019-09-17T23:40:12Z
+81182,THR2098,Latest Microsoft Information Protection partner solutions to help protect your sensitive data,Theater: 20 Minute,Intermediate (200),Session,Benjy Levin,2019-09-17T23:40:12Z
+81459,THR1074,Learn more about intelligent information governance across all your data,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:40:12Z
+81938,THR1064,Lessons learned from open-sourcing Windows Calculator,Theater: 20 Minute,Foundational (100),Session,Dave Grochocki,2019-09-17T23:40:12Z
+81659,THR2126,"Leverage Voice, Pen, and Touch for on-the-go productivity in the Modern Workplace",Theater: 20 Minute,Intermediate (200),Session,Dan Parish,2019-09-17T23:40:12Z
+83978,THR2168,Lifecycle of a Java app from initial deployment to running in production using Terraform and Ansible,Theater: 20 Minute,Intermediate (200),Session,Pui Chee Chan;Mark Gray,2019-09-17T23:45:28Z
+81434,THR2108,Live! MyAnalytics and Workplace Intelligence help you be productive everyday,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83963,THR3124,Machine learning with Python using serverless Azure Functions,Theater: 20 Minute,Advanced (300),Session,Sonia Kulkami,2019-09-17T23:45:28Z
+84180,THR2184,Manage and optimize your cloud cost with Azure Cost Management,Theater: 20 Minute,Intermediate (200),Session,Michael Flanakin,2019-09-17T23:45:28Z
+81734,THR3075,Managing and securing devices in a hybrid identity world,Theater: 20 Minute,Advanced (300),Session,Mike Stephens,2019-09-17T23:40:12Z
+82965,THR2112,Managing cloud native applications with Azure Blob Storage,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83936,THR3113,Maximizing ROI in SQL Data Warehouse with enhanced workload management,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+79765,THR1060,Meet Microsoft Surface ,Theater: 20 Minute,Foundational (100),Session,Frank Buchholz,2019-09-17T23:40:12Z
+83987,THR2144,Microservices and cloud native: Standard Bank's DevOps journey,Theater: 20 Minute,Intermediate (200),Session,Vincenzo Criscuolo;Steve Magid,2019-09-17T23:45:28Z
+81564,THR2116,Microsoft 365 admin center demo-fest: Crash course on latest and greatest management tools,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+81563,THR3084,Microsoft 365 admin: Ask us anything,Theater: 20 Minute,Advanced (300),Session,Aaron Woo;Ben Appleby,2019-09-17T23:40:12Z
+81566,THR3085,"Microsoft 365 network performance testing, scoring, and recommendations",Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83981,THR3125,Microsoft Azure: PowerShell secrets management,Theater: 20 Minute,Advanced (300),Session,Sydney Smith,2019-09-17T23:45:28Z
+83957,THR1082,Microsoft Dynamics 365 Business Central embedded in Office 365,Theater: 20 Minute,Foundational (100),Session,Errol Schoenfish,2019-09-18T13:06:21Z
+84133,THR1082R,Microsoft Dynamics 365 Business Central embedded in Office 365 (Repeat),Theater: 20 Minute,Foundational (100),Session,Errol Schoenfish,2019-09-18T13:06:21Z
+83010,THR3088,Microsoft Graph Toolkit: Two lines of code to get started with Microsoft Graph,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+79764,THR1059,Microsoft Surface in education: Making it simple for IT while improving experiences for teachers and students,Theater: 20 Minute,Foundational (100),Session,Nashaat Soliman,2019-09-17T23:40:12Z
+83477,THR1066,Microsoft Teams demonstration,Theater: 20 Minute,Foundational (100),Session,Aya Tange,2019-09-17T23:40:12Z
+83463,THR3104,Microsoft Teams for firstline workers: Delighting guests and visitors in customer service industries,Theater: 20 Minute,Foundational (100),Session,Keara James,2019-09-17T23:40:12Z
+83462,THR3103,Microsoft Teams for firstline workers: Increasing coordination across your production line,Theater: 20 Minute,Foundational (100),Session,Keara James,2019-09-17T23:40:12Z
+83461,THR3102,Microsoft Teams for firstline workers: Unlocking the best experience for retail customers,Theater: 20 Minute,Foundational (100),Session,Keara James,2019-09-17T23:40:12Z
+83465,THR3106,Microsoft Teams for government workers,Theater: 20 Minute,Foundational (100),Session,Sankalp Jain,2019-09-17T23:40:12Z
+83481,THR1067,"Microsoft Teams on your phone: Tips, tricks, and what makes it unique",Theater: 20 Minute,Foundational (100),Session,Marissa Salazar,2019-09-17T23:40:12Z
+83389,THR2111,Microsoft tools and programs can jumpstart your SQL Server migration to Azure,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83929,THR3114,Migrate and protect your production applications running on Azure Disks,Theater: 20 Minute,Advanced (300),Session,Raman Kumar,2019-09-17T23:45:28Z
+83490,THR2115,Migrate your NFS workloads to Azure Blob Storage,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+81081,THR2019,Mining your data for gold with Luis and Elad,Theater: 20 Minute,Intermediate (200),Session,Luis Cabrera Cordon,2019-09-17T23:40:12Z
+81739,THR3078,Modernize your authentiation with Azure Active Directory,Theater: 20 Minute,Advanced (300),Session,Jairo Calderon,2019-09-17T23:40:12Z
+83911,THR3115,Monitoring your environment to optimize the Microsoft Teams experience,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+81263,THR2132,Move to Windows 10 and Office 365 ProPlus with guidance from FastTrack,Theater: 20 Minute,Intermediate (200),Session,Brian Shiers,2019-09-17T23:40:12Z
+82960,THR2185,Moving from Microsoft Dynamics 365 on-premises to online,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+81671,THR3074,MSIX App Attach: The future of app delivery in virtual environments,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83008,THR3086,NBD: Training ML models with Microsoft Graph data connect ,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+79588,THR3003,"New, fast, and reliable Exchange Online Powershell cmdlets",Theater: 20 Minute,Advanced (300),Partner Led Session,,2019-09-17T23:40:12Z
+81458,THR1050,No more spreadsheets - assess and manage your IT risks with Compliance Score,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:40:12Z
+81562,THR3083,Office 365 Groups: Ask us anything,Theater: 20 Minute,Advanced (300),Session,Kolvekar Loveleen Ramachandra;Nivedita Rajani,2019-09-17T23:40:12Z
+79345,THR1076,One more thing: Microsoft Edge on macOS,Theater: 20 Minute,Foundational (100),Session,Aditya Mohindra,2019-09-17T23:40:12Z
+79628,THR1071,Optimizing Workforce Itinerary Scheduling and Travel Time with Bing Maps,Theater: 20 Minute,Foundational (100),Session,Erik Lindeman,2019-09-17T23:40:12Z
+79075,THR2003,Outlook for Windows: In-app support brings you closer to the product team,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+81026,THR2016,Outlook for Windows: What's new and what's next,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83960,THR2169,"Personalizer, an Azure Cognitive Service powered by reinforcement learning",Theater: 20 Minute,Intermediate (200),Session,Tina Coll,2019-09-17T23:45:28Z
+83501,THR3094,Power BI and Microsoft Information Protection: The game changer for secure BI,Theater: 20 Minute,Advanced (300),Session,Adi Regev;Anton Fritz;Eyal Carmel,2019-09-17T23:40:12Z
+83980,THR2170,Profiling your ASP.NET applications in Visual Studio 2019,Theater: 20 Minute,Intermediate (200),Session,Esteban Herrera,2019-09-17T23:45:28Z
+82967,THR1054,Propelling your career to the next level with Microsoft Azure and Pluralsight,Theater: 20 Minute,Foundational (100),Partner Led Session,,2019-09-17T23:40:12Z
+79727,THR3049,Protect against waves of email attacks - Introducing campaign views in Office 365 ATP,Theater: 20 Minute,Advanced (300),Session,Mihai Costea,2019-09-17T23:40:12Z
+83758,THR1073,Protect your data in Microsoft Teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:45:28Z
+79742,THR3054,Protecting any app – in the cloud and on-premises,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+81180,THR2096,Quick tour of the latest and greatest Data Loss Prevention capabilities in Microsoft 365 to help prevent oversharing of sensitive information,Theater: 20 Minute,Intermediate (200),Session,Mas Libman,2019-09-17T23:40:12Z
+83890,THR2133,Re-designing the modern workplace adoption: A new perspective,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+81737,THR3077,Reduce IT friction with seamless identity end-user experiences,Theater: 20 Minute,Advanced (300),Session,Kalila Simpson,2019-09-17T23:40:12Z
+81451,THR3011,Reduce risk with Microsoft 365 Access Control Technologies,Theater: 20 Minute,Advanced (300),Session,Abhishek Kumar,2019-09-17T23:40:12Z
+83966,THR3126,Reducing time to development of SAP solutions by 100x with Azure Logic Apps,Theater: 20 Minute,Advanced (300),Session,Jon Fancey,2019-09-17T23:45:28Z
+83974,THR4006,Run Python in production without compromising your security,Theater: 20 Minute,Expert (400),Session,Steve Dower,2019-09-17T23:45:28Z
+79642,THR3045,Run your own Windows Insider Program with Group Policy and Intune,Theater: 20 Minute,Advanced (300),Session,Blair Glennon,2019-09-17T23:40:12Z
+79644,THR3046,Run your own Windows Insider Program with WSUS and SCCM,Theater: 20 Minute,Advanced (300),Session,Blair Glennon,2019-09-17T23:40:12Z
+83540,THR2124,Running Postgres at scale on-premises and in the cloud,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83953,THR2171,SAP migration Do’s and Don’ts: Planning and executing a large scale SAP landscape migration,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+79738,THR3053,Securing AWS and Google Cloud Platform,Theater: 20 Minute,Advanced (300),Session,Anisha Gupta,2019-09-17T23:40:12Z
+83221,MCO11,Securing Azure IaaS virtual machines,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83391,THR1065,SentryOne success story featuring Microsoft Teams and Crestron Flex,Theater: 20 Minute,Foundational (100),Partner Led Session,Andrew Gross;Connor Bright,2019-09-17T23:40:12Z
+83959,THR3127,Serverless Kubernetes with Azure Functions and Azure Kubernetes Service (AKS),Theater: 20 Minute,Advanced (300),Session,Ria Bhatia,2019-09-17T23:45:28Z
+83940,THR1083,Share big data easily and securely with other organizations leveraging Azure Data Share,Theater: 20 Minute,Foundational (100),Session,Jie Feng,2019-09-17T23:45:28Z
+79726,THR3005,Sliding laterally: How attackers move through your network,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+84311,THR1087,Stay connected to your Azure environment on the go with the Microsoft Azure mobile app,Theater: 20 Minute,Foundational (100),Session,Ilse Terrazas Ortega,2019-09-18T13:55:59Z
+83896,THR2145,Staying up to date with the Microsoft Azure roadmap,Theater: 20 Minute,Intermediate (200),Session,Evelyn Ozzie,2019-09-17T23:45:28Z
+83942,THR2146,"Stop paying someone else to do it: Automatically monitor, secure, and update your on-premises servers from Azure with Windows Admin Center",Theater: 20 Minute,Intermediate (200),Session,Haley Rowland,2019-09-17T23:45:28Z
+83937,THR3116,Streaming data with Azure Event Hubs and Kafka,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+81742,THR2110,Streamline your business processes and development with Azure Active Directory APIs in Microsoft Graph,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83759,THR1078,Streamline your business processes with automation using Microsoft Teams and Microsoft Flow,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:45:28Z
+83760,THR1079,Streamline your business processes with Microsoft Teams and the Microsoft Power Apps,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:45:28Z
+79767,THR1061,Surface AutoPilot: The easiest deployment for today’s mobile workforce,Theater: 20 Minute,Foundational (100),Session,Sean McLaren,2019-09-17T23:40:12Z
+83771,THR2172,Tailoring Microsoft Teams and delegating administration in Office 365,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-17T23:45:28Z
+83239,THR2114,Tap into Microsoft Teams Rooms with Logitech,Theater: 20 Minute,Intermediate (200),Partner Led Session,Vic Bhagat,2019-09-17T23:40:12Z
+81333,THR2105,Test and debug MSIX apps remotely using Windows Device Portal,Theater: 20 Minute,Intermediate (200),Session,Adam Braden,2019-09-17T23:40:12Z
+83770,THR2173,The ABCs of WVD migration,Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-17T23:45:28Z
+82867,THR3117,The evolution of Windows feature update deployment ,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+81241,THR1047,The new Microsoft Project: Built for teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:40:12Z
+81246,THR1048,The new Microsoft Project: Built for teams,Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:40:12Z
+83013,THR3090,Third-party single sign-on in Office add-ins: Admin consent GA,Theater: 20 Minute,Advanced (300),Session,,2019-09-18T06:15:12Z
+79725,THR3048,Threats in the wild: Detecting on-premises threats with Azure Advanced Threat Protection,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83902,THR2147,Three ways to build bots with Azure AI that can make you a hero in your organization,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+83939,THR3128,Time series and machine learning with Azure Data Explorer,Theater: 20 Minute,Advanced (300),Session,Manoj Raheja,2019-09-17T23:45:28Z
+83912,THR1080,"Tools, templates, and teamwork: Using Microsoft Teams to drive adoption",Theater: 20 Minute,Foundational (100),Session,,2019-09-17T23:45:28Z
+81186,THR3068,Top five best practices to accelerate your deployment of Microsoft Information Protection solutions,Theater: 20 Minute,Advanced (300),Session,Nishan DeSilva,2019-09-17T23:40:12Z
+83222,MSI11,Top five new features of Windows Server 2019,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+81181,THR2097,Top new information protection capabilities announced at Microsoft Ignite,Theater: 20 Minute,Intermediate (200),Session,Gagan Gulati,2019-09-17T23:40:12Z
+79352,THR1081,Top ten reasons why you should break up with Chrome,Theater: 20 Minute,Foundational (100),Session,Wale Martins,2019-09-17T23:40:12Z
+83012,THR3095,Unified PowerShell experience for Microsoft Graph - preview,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83420,THR2122,Unify Microsoft Teams across tenants to accelerate M&As and cloud consolidations,Theater: 20 Minute,Intermediate (200),Partner Led Session,Dennis Rothmel,2019-09-17T23:40:12Z
+79816,THR3056,Unleash the hunter in you: Advanced hunting in Microsoft Defender ATP,Theater: 20 Minute,Advanced (300),Session,Hadar Feldman,2019-09-17T23:40:12Z
+81139,THR2095,Unlock the power of data driven diagramming with Microsoft Excel and Visio,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+83972,THR3129,Unlocking AI insights from your video using Video Indexer,Theater: 20 Minute,Advanced (300),Session,Anika Zaman,2019-09-17T23:45:28Z
+83941,THR3118,"Unparalleled ways that Microsoft makes data sharing flexible, safe, and astonishingly simple",Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+83949,THR2174,Using Azure Sentinel to supercharge your threat hunting,Theater: 20 Minute,Intermediate (200),Session,Pete Bryan,2019-09-17T23:45:28Z
+83964,THR2175,Using HPC Cache to reduce latency,Theater: 20 Minute,Intermediate (200),Session,,2019-09-18T05:15:19Z
+83873,THR2148,What's new in Azure Data Studio notebooks,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+79040,THR3039,What's new in the Office Customization Tool,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83938,THR3119,What's new with Azure Data Lake Storage,Theater: 20 Minute,Advanced (300),Session,Raji Easwaran,2019-09-17T23:45:28Z
+83738,THR3092,What’s new and what's next in Power BI embedded analytics,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+81736,THR2109,What’s new in Azure Active Directory Identity Protection,Theater: 20 Minute,Advanced (300),Session,Adam Stoffel;Jose Rojas,2019-09-17T23:40:12Z
+79039,THR3038,What’s new in Office cloud policy service,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83491,THR2119,"Why devices matter: Get the best collaboration experience on Microsoft Teams, end-to-end",Theater: 20 Minute,Intermediate (200),Partner Led Session,,2019-09-17T23:40:12Z
+83539,THR2123,Why enterprises are moving from Oracle to Azure Postgres,Theater: 20 Minute,Intermediate (200),Session,,2019-09-18T15:36:34Z
+81669,THR3028,Windows 10 in S mode: The complete trusted device experience,Theater: 20 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83945,THR2176,Windows Admin Center: Better together with System Center and Microsoft Azure,Theater: 20 Minute,Intermediate (200),Session,Sameul Li,2019-09-17T23:45:28Z
+79790,THR2008,You do meetings? So do we! Come see new meeting features in Outlook on the web!,Theater: 20 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z

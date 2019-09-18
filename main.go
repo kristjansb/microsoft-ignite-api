@@ -1,6 +1,7 @@
 package main
 
 import (
+	"bytes"
 	"encoding/csv"
 	"encoding/json"
 	"fmt"
@@ -109,7 +110,12 @@ func main() {
 func PostSearchAPI() MsIgniteAPIResponse {
 	url := "https://api-myignite.techcommunity.microsoft.com/api/session/search"
 
-	payload := strings.NewReader("{\"itemsPerPage\": 1000, \"searchText\": \"*\", \"searchPage\": 1, \"sortOption\": \"ASC\", \"searchFacets\": { \"facets\": [ { \"facetName\": \"sessionType\", \"displayName\": \"Breakout: 75 Minute\", \"names\": [ \"Breakout: 75 Minute\", \"Breakout: 45 Minute\", \"Theater: 20 Minute\" ] }, { \"facetName\": \"format\", \"displayName\": \"Session\", \"names\": [ \"Session\", \"Partner Led Session\", \"Panel Discussion\", \"Customer Showcase\" ] } ], \"personalizationFacets\": [], \"dateFacet\": [ { \"startDateTime\": \"2019-11-03T13:30:00.000Z\", \"endDateTime\": \"2019-11-03T23:59:59.000Z\" }, { \"startDateTime\": \"2019-11-04T13:30:00.000Z\", \"endDateTime\": \"2019-11-04T23:59:59.000Z\" }, { \"startDateTime\": \"2019-11-05T13:30:00.000Z\", \"endDateTime\": \"2019-11-05T23:59:59.000Z\" }, { \"startDateTime\": \"2019-11-06T13:30:00.000Z\", \"endDateTime\": \"2019-11-06T23:59:59.000Z\" }, { \"startDateTime\": \"2019-11-07T13:30:00.000Z\", \"endDateTime\": \"2019-11-07T23:59:59.000Z\" }, { \"startDateTime\": \"2019-11-08T13:30:00.000Z\", \"endDateTime\": \"2019-11-08T23:59:59.000Z\" } ] }, \"recommendedItemIds\": [], \"favoritesIds\": [], \"mustHaveOnDemandVideo\": false}")
+	searchJSON, err := ioutil.ReadFile("search.json")
+	if err != nil {
+		log.Fatal(err)
+	}
+
+	payload := bytes.NewReader(searchJSON)
 
 	req, _ := http.NewRequest("POST", url, payload)
 

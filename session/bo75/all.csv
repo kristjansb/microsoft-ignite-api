@@ -1,16 +1,16 @@
 Session ID,Session Code,Title,Session Type,Level,Format,Speaker Names,Last Update
-81592,BRK3164,.NET platform overview and roadmap,Breakout: 75 Minute,Advanced (300),Session,Scott Hanselman,2019-09-12T16:50:17Z
-81591,BRK2067,App development for everyone with Hanselman and friends,Breakout: 75 Minute,Intermediate (200),Session,Scott Hanselman,2019-09-15T10:25:54Z
-82924,BRK2142,Azure migration journey: Best practices and open mic Q&A,Breakout: 75 Minute,Intermediate (200),Session,Sneha Agrawal,2019-09-15T17:05:12Z
-83913,BRK2174,Build your adoption success hub,Breakout: 75 Minute,Intermediate (200),Session,,2019-09-13T20:00:48Z
-79242,BRK1018,"Digital transformation using Office 365: How key customers used O365 features to work more effectively together plus learn what’s new in Word, Excel and PowerPoint",Breakout: 75 Minute,Foundational (100),Session,Patrick Gan;Megan Dohnal,2019-09-13T20:00:48Z
-84140,BRK3236,Get instant value from your SIEM: Best practices for Azure Sentinel,Breakout: 75 Minute,Advanced (300),Session,Nicholas DiCola,2019-09-13T23:00:50Z
-82058,BRK3097,Inside Azure datacenter architecture with Mark Russinovich,Breakout: 75 Minute,Advanced (300),Session,,2019-09-09T00:30:10Z
-81148,BRK1009,Machine learning simplified: From ideation to deployment in minutes with Azure Machine Learning,Breakout: 75 Minute,Foundational (100),Session,,2019-09-14T01:45:13Z
-82059,BRK3098,Mark Russinovich shares the future of cloud native applications ,Breakout: 75 Minute,Advanced (300),Session,,2019-09-09T00:30:10Z
-83449,BRK2172,"Microsoft Power BI: Business intelligence strategy, vision, and roadmap update",Breakout: 75 Minute,Intermediate (200),Session,Justyna Lucznik;Amir Netz;Christian Wade;Arun Ulagaratchagan,2019-09-11T18:00:13Z
-83757,BRK3232,Plan and implement a successful upgrade from Skype for Business to Microsoft Teams,Breakout: 75 Minute,Advanced (300),Session,,2019-09-13T20:00:48Z
-82019,BRK4011,Quantum computing: Computing with a probabilistic universe with Mark Russinovich,Breakout: 75 Minute,Expert (400),Session,,2019-09-09T00:30:10Z
-81032,BRK2006,SQL Server from ground to the cloud,Breakout: 75 Minute,Intermediate (200),Session,Anna Thomas,2019-09-14T01:45:13Z
-81128,BRK1008,Visio roadmap: Now and beyond,Breakout: 75 Minute,Foundational (100),Session,,2019-09-11T17:45:12Z
-81704,BRK2129,Windows Server: What's new and what's next,Breakout: 75 Minute,Intermediate (200),Session,Bernardo Caldas,2019-09-09T18:30:58Z
+81592,BRK3164,.NET platform overview and roadmap,Breakout: 75 Minute,Advanced (300),Session,Scott Hanselman,2019-09-17T23:40:12Z
+81591,BRK2067,App development for everyone with Hanselman and friends,Breakout: 75 Minute,Intermediate (200),Session,Scott Hanselman,2019-09-17T23:40:12Z
+82924,BRK2142,Azure migration journey: Best practices and open mic Q&A,Breakout: 75 Minute,Intermediate (200),Session,Sneha Agrawal,2019-09-17T23:40:12Z
+83913,BRK2174,Build your adoption success hub,Breakout: 75 Minute,Intermediate (200),Session,,2019-09-17T23:45:28Z
+79242,BRK1018,"Digital transformation using Office 365: How key customers used O365 features to work more effectively together plus learn what’s new in Word, Excel and PowerPoint",Breakout: 75 Minute,Foundational (100),Session,Patrick Gan;Megan Dohnal,2019-09-17T23:40:12Z
+84140,BRK3236,Get instant value from your SIEM: Best practices for Azure Sentinel,Breakout: 75 Minute,Advanced (300),Session,Nicholas DiCola,2019-09-17T23:45:28Z
+82058,BRK3097,Inside Azure datacenter architecture with Mark Russinovich,Breakout: 75 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+81148,BRK1009,Machine learning simplified: From ideation to deployment in minutes with Azure Machine Learning,Breakout: 75 Minute,Foundational (100),Session,,2019-09-17T23:40:12Z
+82059,BRK3098,Mark Russinovich shares the future of cloud native applications ,Breakout: 75 Minute,Advanced (300),Session,,2019-09-17T23:40:12Z
+83449,BRK2172,"Microsoft Power BI: Business intelligence strategy, vision, and roadmap update",Breakout: 75 Minute,Intermediate (200),Session,Justyna Lucznik;Amir Netz;Christian Wade;Arun Ulagaratchagan,2019-09-17T23:40:12Z
+83757,BRK3232,Plan and implement a successful upgrade from Skype for Business to Microsoft Teams,Breakout: 75 Minute,Advanced (300),Session,,2019-09-17T23:45:28Z
+82019,BRK4011,Quantum computing: Computing with a probabilistic universe with Mark Russinovich,Breakout: 75 Minute,Expert (400),Session,,2019-09-17T23:40:12Z
+81032,BRK2006,SQL Server from ground to the cloud,Breakout: 75 Minute,Intermediate (200),Session,,2019-09-17T23:40:12Z
+81128,BRK1008,Visio roadmap: Now and beyond,Breakout: 75 Minute,Foundational (100),Session,,2019-09-17T23:40:12Z
+81704,BRK2129,Windows Server: What's new and what's next,Breakout: 75 Minute,Intermediate (200),Session,Bernardo Caldas,2019-09-17T23:40:12Z
